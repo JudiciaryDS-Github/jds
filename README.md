@@ -2,9 +2,13 @@
 
 JDS is a frontend framework that aims to provide a beautiful common visual language and user experience for visitors of Singapore Courts' web applications. It provides designers and developers with customisable components to help them easily implement the Singapore Government's Digital Service Standards.
 
-Beta package files are available at [https://github.com/JudiciaryDS-Github/jds/tree/main/package-beta](https://github.com/JudiciaryDS-Github/jds/tree/main/package-beta)
+{% hint style="info" %}
+Judiciary design system **beta package files** are available at [**GitHub**](https://github.com/JudiciaryDS-Github/jds)\*\*\*\*
+{% endhint %}
 
-View the design system documentation at [https://sg-jds.gitbook.io/jds-beta/v/main/](https://sg-jds.gitbook.io/jds-beta/v/main/)
+{% hint style="info" %}
+Judiciary design system **documentation** at[ **GitBook**](https://sg-jds.gitbook.io/jds-beta/v/main/)\*\*\*\*
+{% endhint %}
 
 As a common reference for all parties, JDS acts the single source of truth to enables all interested parties to efficiently deliver consistent branding and great user experience effectively across all modes of digital interactions to the judiciary users.
 
@@ -22,7 +26,6 @@ As a common reference for all parties, JDS acts the single source of truth to en
 ## Outcome / Benefits
 
 ![](.gitbook/assets/jds-outcome-gitbook%20%281%29%20%281%29.png)
-
 
 ## \(Powered by CrimsonLogic\)
 
