@@ -19,3 +19,4 @@ As a common reference for all parties, JDS acts the single source of truth to en
 
 ![](.gitbook/assets/jds-outcome-gitbook%20%281%29%20%281%29.png)
 
+## (Powered by CrimsonLogic)
