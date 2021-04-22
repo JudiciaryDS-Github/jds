@@ -7,7 +7,9 @@
 
 ## Visual Styling
 
-* [Icons](visual-styling/icons.md)
 * [Colours](visual-styling/colours.md)
+* [Typography](visual-styling/typography.md)
+* [Icons](visual-styling/icons.md)
+* [Images](visual-styling/images.md)
 * [Accessibility](visual-styling/accessibility.md)
 
