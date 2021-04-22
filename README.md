@@ -1,5 +1,7 @@
 # About Judiciary Design System
 
+This Judiciary Design System is designed for seamless collaboration.
+
 JDS is a frontend framework that aims to provide a beautiful common visual language and user experience for visitors of Singapore Courts' web applications. It provides designers and developers with customisable components to help them easily implement the Singapore Government's Digital Service Standards.
 
 As a common reference for all parties, JDS acts the single source of truth to enables all interested parties to efficiently deliver consistent branding and great user experience effectively across all modes of digital interactions to the judiciary users.
