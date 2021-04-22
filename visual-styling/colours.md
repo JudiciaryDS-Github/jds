@@ -1,6 +1,6 @@
 # Colours
 
-|  |  |
-| :---: | :--- |
-| ![](../.gitbook/assets/primary.png)     **Primary**  \#751c24 |  |
+|  |  |  |
+| :---: | :--- | :--- |
+| ![](../.gitbook/assets/primary.png) **Primary**  \#751c24 |  |  |
 
