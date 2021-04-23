@@ -1,14 +1,14 @@
 # Colours
 
-### Primary Colors
+### Primary Colours
 
 The maroon colors serve as the primary action color, such as button, across the website.
 
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">Color</th>
-      <th style="text-align:left">Color</th>
+      <th style="text-align:left">Colour</th>
+      <th style="text-align:left">Colour</th>
     </tr>
   </thead>
   <tbody>
@@ -32,15 +32,15 @@ The maroon colors serve as the primary action color, such as button, across the 
   </tbody>
 </table>
 
-### Secondary Colors
+### Secondary Colours
 
 Use secondary color for main header and components; use it sparing and purposefully.
 
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">Color</th>
-      <th style="text-align:left">Color</th>
+      <th style="text-align:left">Colour</th>
+      <th style="text-align:left">Colour</th>
     </tr>
   </thead>
   <tbody>
@@ -75,15 +75,15 @@ Use secondary color for main header and components; use it sparing and purposefu
   </tbody>
 </table>
 
-### Supplementary Colors
+### Supplementary Colours
 
 Use as background colors to divide different sections within a page.
 
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">Color</th>
-      <th style="text-align:left">Color</th>
+      <th style="text-align:left">Colour</th>
+      <th style="text-align:left">Colour</th>
     </tr>
   </thead>
   <tbody>
