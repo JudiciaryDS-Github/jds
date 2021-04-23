@@ -49,11 +49,11 @@ Use secondary color for main header and components; use it sparing and purposefu
         <p>
           <img src="../.gitbook/assets/secondary_-283c61.png" alt/>
         </p>
-        <p>Secondary</p>
-        <p><b>  #283c61</b></p>
+        <p>Secondary <br />
+        <b>  #283c61</b></p>
       </td>
       <td style="text-align:left">
-        <p><b> </b>
+        <p>
           <img src="../.gitbook/assets/khaki_-e2dfdb.png" alt/></p>
         <p>Khaki</p>
         <p><b>  #e2dfdb</b>
@@ -62,7 +62,7 @@ Use secondary color for main header and components; use it sparing and purposefu
     </tr>
     <tr>
       <td style="text-align:left">
-        <p>&#x200B;
+        <p>
           <img src="../.gitbook/assets/khakid1_-a59b8a.png" alt/>
         </p>
         <p>Khaki D1
@@ -94,13 +94,13 @@ Use as background colors to divide different sections within a page.
         <p>Supplementary-BG Dark
           <br /><b>  #343e47</b>
         </p>
-        <p>&lt;b&gt;&lt;/b&gt;</p>
+   
       </td>
       <td style="text-align:left">
-        <p><b> </b>
+        <p>
           <img src="../.gitbook/assets/khaki_-e2dfdb.png" alt/></p>
-        <p>Supplementary-BG Light</p>
-        <p><b>  #eeece9</b>
+        <p>Supplementary-BG Light
+        <br /><b>  #eeece9</b>
         </p>
       </td>
     </tr>
