@@ -50,8 +50,7 @@ Use secondary color for main header and components; use it sparing and purposefu
           <img src="../.gitbook/assets/secondary_-283c61.png" alt/>
         </p>
         <p>Secondary</p>
-        <p><b>  #283c61</b>
-        </p>
+        <p><b>  #283c61</b></p>
       </td>
       <td style="text-align:left">
         <p><b> </b>
