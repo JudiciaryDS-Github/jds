@@ -99,8 +99,8 @@ Use as background colors to divide different sections within a page.
       </td>
       <td style="text-align:left">
         <p><b> </b>
-          <img src="../.gitbook/assets/khaki_-e2dfdb.png" alt/>&lt;b&gt;&lt;/b&gt;</p>
-        <p><b>  </b>Supplementary-BG Light</p>
+          <img src="../.gitbook/assets/khaki_-e2dfdb.png" alt/></p>
+        <p>Supplementary-BG Light</p>
         <p><b>  #eeece9</b>
         </p>
       </td>
