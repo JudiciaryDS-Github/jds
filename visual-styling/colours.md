@@ -79,8 +79,32 @@ Use secondary color for main header and components; use it sparing and purposefu
 
 Use as background colors to divide different sections within a page.
 
-| Color | Category | Hex code |
-| :--- | :--- | :--- |
-| ![](../.gitbook/assets/primary.png) | Primary                                 **** |  **\#751c24**                                 **** |
-| ![](../.gitbook/assets/primary-l1.png) | Primary L1 | **\#a02842** |
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">Color</th>
+      <th style="text-align:left">Color</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">
+        <p>
+          <img src="../.gitbook/assets/supplementary-bg-dark_-343e47.png" alt/>
+        </p>
+        <p>Supplementary-BG Dark
+          <br /><b>  #343e47</b>
+        </p>
+        <p>&lt;b&gt;&lt;/b&gt;</p>
+      </td>
+      <td style="text-align:left">
+        <p><b> </b>
+          <img src="../.gitbook/assets/khaki_-e2dfdb.png" alt/>&lt;b&gt;&lt;/b&gt;</p>
+        <p><b>  </b>Supplementary-BG Light</p>
+        <p><b>  #eeece9</b>
+        </p>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
