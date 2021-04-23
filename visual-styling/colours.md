@@ -66,7 +66,8 @@ Use secondary color for main header and components; use it sparing and purposefu
         <p>&#x200B;
           <img src="../.gitbook/assets/khakid1_-a59b8a.png" alt/><b>&#x200B;</b>
         </p>
-        <p>Khaki D1 <b>#a59b8a</b>
+        <p>Khaki D1
+          <br /> <b>#a59b8a</b>
         </p>
       </td>
       <td style="text-align:left"></td>
