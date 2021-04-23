@@ -110,3 +110,76 @@ Use as background colors to divide different sections within a page.
   </tbody>
 </table>
 
+## System Colours
+
+When we need to communicate an information to digest or the status of an update, we use this palette of colors.
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">Colour</th>
+      <th style="text-align:left">Colour</th>
+      <th style="text-align:left"></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">
+        <p>
+          <img src="../.gitbook/assets/system-info-dark_-283c61.png" alt/>
+        </p>
+        <p>System-Info-Dark
+          <br /> <b>#283c61</b>
+        </p>
+      </td>
+      <td style="text-align:left">
+        <p>
+          <img src="../.gitbook/assets/system-info-dark_-283c61.png" alt/>
+        </p>
+        <p>System-Info-Light</p>
+        <p><b>  #eeeff2</b>
+        </p>
+      </td>
+      <td style="text-align:left">
+        <p>&#x200B;
+          <img src="https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MVPzFJV0KiMDuBMGmVD%2F-MYyAIcsiRGiQbcgIDzd%2F-MYyBafNYE4X5k1jpF71%2Fsystem-info-dark_%23283c61.png?alt=media&amp;token=c3d39bcc-9b04-49c6-a0ee-36e94f391ea4"
+          alt/>&#x200B;</p>
+        <p>System-Info-Light</p>
+        <p> <b>#eeeff2</b>
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">
+        <p>
+          <img src="../.gitbook/assets/system-info-dark_-283c61.png" alt/>
+        </p>
+        <p>System-Info-Dark
+          <br /> <b>#283c61</b>
+        </p>
+      </td>
+      <td style="text-align:left">
+        <p>
+          <img src="../.gitbook/assets/system-info-dark_-283c61.png" alt/>
+        </p>
+        <p>System-Info-Light</p>
+        <p><b>  #eeeff2</b>
+        </p>
+      </td>
+      <td style="text-align:left">
+        <p>&#x200B;
+          <img src="https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MVPzFJV0KiMDuBMGmVD%2F-MYyAIcsiRGiQbcgIDzd%2F-MYyBafNYE4X5k1jpF71%2Fsystem-info-dark_%23283c61.png?alt=media&amp;token=c3d39bcc-9b04-49c6-a0ee-36e94f391ea4"
+          alt/>&#x200B;</p>
+        <p>System-Info-Light</p>
+        <p> <b>#eeeff2</b>
+        </p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
