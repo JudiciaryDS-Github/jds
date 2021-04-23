@@ -1,6 +1,6 @@
 # Colours
 
-### Primary Colours
+## Primary Colours
 
 The maroon colors serve as the primary action color, such as button, across the website.
 
@@ -22,8 +22,9 @@ The maroon colors serve as the primary action color, such as button, across the 
         </p>
       </td>
       <td style="text-align:left">
-        <p><b> </b>
-          <img src="../.gitbook/assets/primary-l1.png" alt/></p>
+        <p>
+          <img src="../.gitbook/assets/primary-l1.png" alt/>
+        </p>
         <p>Primary L1
           <br /> <b>#a02842</b>
         </p>
@@ -32,7 +33,7 @@ The maroon colors serve as the primary action color, such as button, across the 
   </tbody>
 </table>
 
-### Secondary Colours
+## Secondary Colours
 
 Use secondary color for main header and components; use it sparing and purposefully.
 
@@ -49,14 +50,16 @@ Use secondary color for main header and components; use it sparing and purposefu
         <p>
           <img src="../.gitbook/assets/secondary_-283c61.png" alt/>
         </p>
-        <p>Secondary <br />
-        <b>  #283c61</b></p>
+        <p>Secondary
+          <br /> <b>#283c61</b>
+        </p>
       </td>
       <td style="text-align:left">
         <p>
-          <img src="../.gitbook/assets/khaki_-e2dfdb.png" alt/></p>
+          <img src="../.gitbook/assets/khaki_-e2dfdb.png" alt/>
+        </p>
         <p>Khaki</p>
-        <p><b>  #e2dfdb</b>
+        <p> <b>#e2dfdb</b>
         </p>
       </td>
     </tr>
@@ -74,7 +77,7 @@ Use secondary color for main header and components; use it sparing and purposefu
   </tbody>
 </table>
 
-### Supplementary Colours
+## Supplementary Colours
 
 Use as background colors to divide different sections within a page.
 
@@ -92,15 +95,15 @@ Use as background colors to divide different sections within a page.
           <img src="../.gitbook/assets/supplementary-bg-dark_-343e47.png" alt/>
         </p>
         <p>Supplementary-BG Dark
-          <br /><b>  #343e47</b>
+          <br /> <b>#343e47</b>
         </p>
-   
       </td>
       <td style="text-align:left">
         <p>
-          <img src="../.gitbook/assets/khaki_-e2dfdb.png" alt/></p>
+          <img src="../.gitbook/assets/khaki_-e2dfdb.png" alt/>
+        </p>
         <p>Supplementary-BG Light
-        <br /><b>  #eeece9</b>
+          <br /> <b>#eeece9</b>
         </p>
       </td>
     </tr>
