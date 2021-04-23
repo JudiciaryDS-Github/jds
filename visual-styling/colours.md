@@ -23,7 +23,7 @@ The maroon colors serve as the primary action color, such as button, across the 
       </td>
       <td style="text-align:left">
         <p><b> </b>
-          <img src="../.gitbook/assets/primary-l1.png" alt/>&lt;b&gt;&lt;/b&gt;</p>
+          <img src="../.gitbook/assets/primary-l1.png" alt/></p>
         <p>Primary L1
           <br /> <b>#a02842</b>
         </p>
