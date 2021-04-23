@@ -55,8 +55,8 @@ Use secondary color for main header and components; use it sparing and purposefu
       </td>
       <td style="text-align:left">
         <p><b> </b>
-          <img src="../.gitbook/assets/khaki_-e2dfdb.png" alt/>&lt;b&gt;&lt;/b&gt;</p>
-        <p><b>  </b>Khaki</p>
+          <img src="../.gitbook/assets/khaki_-e2dfdb.png" alt/></p>
+        <p>Khaki</p>
         <p><b>  #e2dfdb</b>
         </p>
       </td>
@@ -64,7 +64,7 @@ Use secondary color for main header and components; use it sparing and purposefu
     <tr>
       <td style="text-align:left">
         <p>&#x200B;
-          <img src="../.gitbook/assets/khakid1_-a59b8a.png" alt/><b>&#x200B;</b>
+          <img src="../.gitbook/assets/khakid1_-a59b8a.png" alt/>
         </p>
         <p>Khaki D1
           <br /> <b>#a59b8a</b>
