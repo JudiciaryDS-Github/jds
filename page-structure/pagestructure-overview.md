@@ -109,7 +109,6 @@ For services with 2 or more levels of navigation, pages should contain secondary
 Side navigation should:
 
 * Be positioned on the left of every inner page in a digital service
-* Be hidden when used on mobile devices
 
 ## Footer
 
@@ -144,5 +143,5 @@ We advise that you avoid using more than 6 columns of footer links.
 ```
 
 Note: Users have to ensure all the above sections must be inside a wrapper div that is   
-
+`<div class="wrapper sticky" id="page">`
 
