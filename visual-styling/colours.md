@@ -128,7 +128,7 @@ When we need to communicate an information to digest or the status of an update,
         <p>
           <img src="../.gitbook/assets/system-info-dark_-283c61.png" alt/>
         </p>
-        <p>System-Info-Dark
+        <p>Info-Dark
           <br /> <b>#283c61</b>
         </p>
       </td>
@@ -136,7 +136,7 @@ When we need to communicate an information to digest or the status of an update,
         <p>
           <img src="../.gitbook/assets/system-info-dark_-283c61.png" alt/>
         </p>
-        <p>System-Info-Light</p>
+        <p>Info-Light</p>
         <p><b>  #eeeff2</b>
         </p>
       </td>
