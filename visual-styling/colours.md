@@ -117,9 +117,9 @@ When we need to communicate an information to digest or the status of an update,
 <table>
   <thead>
     <tr>
-      <th style="text-align:left"></th>
-      <th style="text-align:left"></th>
-      <th style="text-align:left"></th>
+      <th style="text-align:left">Colour</th>
+      <th style="text-align:left">Colour</th>
+      <th style="text-align:left">Colour</th>
     </tr>
   </thead>
   <tbody>
