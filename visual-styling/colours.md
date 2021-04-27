@@ -117,8 +117,8 @@ When we need to communicate an information to digest or the status of an update,
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">Colour</th>
-      <th style="text-align:left">Colour</th>
+      <th style="text-align:left"></th>
+      <th style="text-align:left"></th>
       <th style="text-align:left"></th>
     </tr>
   </thead>
@@ -140,18 +140,6 @@ When we need to communicate an information to digest or the status of an update,
         <p><b>  #eeeff2</b>
         </p>
       </td>
-      <td style="text-align:left">
-        <p>&#x200B;
-          <img src="https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MVPzFJV0KiMDuBMGmVD%2F-MYyAIcsiRGiQbcgIDzd%2F-MYyBafNYE4X5k1jpF71%2Fsystem-info-dark_%23283c61.png?alt=media&amp;token=c3d39bcc-9b04-49c6-a0ee-36e94f391ea4"
-          alt/>&#x200B;</p>
-        <p>System-Info-Light</p>
-        <p> <b>#eeeff2</b>
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
       <td style="text-align:left"></td>
     </tr>
     <tr>
@@ -159,25 +147,85 @@ When we need to communicate an information to digest or the status of an update,
         <p>
           <img src="../.gitbook/assets/system-info-dark_-283c61.png" alt/>
         </p>
-        <p>System-Info-Dark
-          <br /> <b>#283c61</b>
-        </p>
+        <p>Success
+          <br /> <b>#</b>01b99d</p>
       </td>
       <td style="text-align:left">
         <p>
           <img src="../.gitbook/assets/system-info-dark_-283c61.png" alt/>
         </p>
-        <p>System-Info-Light</p>
-        <p><b>  #eeeff2</b>
-        </p>
+        <p>Success L1</p>
+        <p><b>  #</b>e6f8f5</p>
       </td>
       <td style="text-align:left">
         <p>&#x200B;
           <img src="https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MVPzFJV0KiMDuBMGmVD%2F-MYyAIcsiRGiQbcgIDzd%2F-MYyBafNYE4X5k1jpF71%2Fsystem-info-dark_%23283c61.png?alt=media&amp;token=c3d39bcc-9b04-49c6-a0ee-36e94f391ea4"
           alt/>&#x200B;</p>
-        <p>System-Info-Light</p>
-        <p> <b>#eeeff2</b>
+        <p>Success D1</p>
+        <p> <b>#</b>016f5e</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">
+        <p>
+          <img src="../.gitbook/assets/system-info-dark_-283c61.png" alt/>
         </p>
+        <p>Warning
+          <br /> <b>#</b>ffd975</p>
+      </td>
+      <td style="text-align:left">
+        <p>
+          <img src="../.gitbook/assets/system-info-dark_-283c61.png" alt/>
+        </p>
+        <p>Warning L1</p>
+        <p><b>  #</b>fdf6e6</p>
+      </td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">
+        <p>
+          <img src="../.gitbook/assets/system-info-dark_-283c61.png" alt/>
+        </p>
+        <p>Error
+          <br /> <b>#</b>b00020</p>
+      </td>
+      <td style="text-align:left">
+        <p>
+          <img src="../.gitbook/assets/system-info-dark_-283c61.png" alt/>
+        </p>
+        <p>Error L1</p>
+        <p><b>  #</b>f8d7da</p>
+      </td>
+      <td style="text-align:left">
+        <p>&#x200B;
+          <img src="https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MVPzFJV0KiMDuBMGmVD%2F-MYyAIcsiRGiQbcgIDzd%2F-MYyBafNYE4X5k1jpF71%2Fsystem-info-dark_%23283c61.png?alt=media&amp;token=c3d39bcc-9b04-49c6-a0ee-36e94f391ea4"
+          alt/>&#x200B;</p>
+        <p>Error D1</p>
+        <p> <b>#</b>7b0016</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">
+        <p>
+          <img src="../.gitbook/assets/system-info-dark_-283c61.png" alt/>
+        </p>
+        <p>Example
+          <br /> <b>#</b>a57cb8</p>
+      </td>
+      <td style="text-align:left">
+        <p>
+          <img src="../.gitbook/assets/system-info-dark_-283c61.png" alt/>
+        </p>
+        <p>Example L1</p>
+        <p><b>  #</b>f8d7da</p>
+      </td>
+      <td style="text-align:left">
+        <p>&#x200B;
+          <img src="https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MVPzFJV0KiMDuBMGmVD%2F-MYyAIcsiRGiQbcgIDzd%2F-MYyBafNYE4X5k1jpF71%2Fsystem-info-dark_%23283c61.png?alt=media&amp;token=c3d39bcc-9b04-49c6-a0ee-36e94f391ea4"
+          alt/>&#x200B;</p>
+        <p>Example D1</p>
+        <p> <b>#</b>7b0016</p>
       </td>
     </tr>
   </tbody>
