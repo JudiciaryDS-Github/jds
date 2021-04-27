@@ -148,38 +148,46 @@ When we need to communicate an information to digest or the status of an update,
           <img src="../.gitbook/assets/system-success-01b99d.png" alt/>
         </p>
         <p>Success
-          <br /> <b>#</b>01b99d</p>
+          <br /><b> #01b99d</b>
+        </p>
       </td>
       <td style="text-align:left">
-        <p>
-          <img src="../.gitbook/assets/system-success-light-e6f8f5.png" alt/>
+        <p>&lt;b&gt;&lt;/b&gt;
+          <img src="../.gitbook/assets/system-success-light-e6f8f5.png"
+          alt/>
         </p>
         <p>Success L1</p>
-        <p><b>  #</b>e6f8f5</p>
+        <p><b>  #e6f8f5</b>
+        </p>
       </td>
       <td style="text-align:left">
         <p>&#x200B;
           <img src="../.gitbook/assets/system-success-dark-016f5e.png" alt/>&#x200B;</p>
         <p>Success D1</p>
-        <p> <b>#</b>016f5e</p>
+        <p><b> #016f5e</b>
+        </p>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">
-        <p>
-          <img src="../.gitbook/assets/system-warning-ffd975.png" alt/>
+        <p>&lt;b&gt;&lt;/b&gt;
+          <img src="../.gitbook/assets/system-warning-ffd975.png"
+          alt/>
         </p>
         <p>Warning
-          <br /> <b>#</b>ffd975</p>
+          <br /><b> #ffd975</b>
+        </p>
       </td>
       <td style="text-align:left">
-        <p>
-          <img src="../.gitbook/assets/system-warning-l1-fdf6e6.png" alt/>
+        <p>&lt;b&gt;&lt;/b&gt;
+          <img src="../.gitbook/assets/system-warning-l1-fdf6e6.png"
+          alt/>
         </p>
         <p>Warning L1</p>
-        <p><b>  #</b>fdf6e6</p>
+        <p><b>  #fdf6e6</b>
+        </p>
       </td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">&lt;b&gt;&lt;/b&gt;</td>
     </tr>
     <tr>
       <td style="text-align:left">
@@ -187,42 +195,51 @@ When we need to communicate an information to digest or the status of an update,
           <img src="../.gitbook/assets/system-error-b00020.png" alt/>
         </p>
         <p>Error
-          <br /> <b>#</b>b00020</p>
+          <br /><b> #b00020</b>
+        </p>
       </td>
       <td style="text-align:left">
-        <p>
-          <img src="../.gitbook/assets/system-error-l1-f8d7da.png" alt/>
+        <p>&lt;b&gt;&lt;/b&gt;
+          <img src="../.gitbook/assets/system-error-l1-f8d7da.png"
+          alt/>
         </p>
         <p>Error L1</p>
-        <p><b>  #</b>f8d7da</p>
+        <p><b>  #f8d7da</b>
+        </p>
       </td>
       <td style="text-align:left">
         <p>&#x200B;
           <img src="../.gitbook/assets/system-error-d1-7b0016.png" alt/>&#x200B;</p>
         <p>Error D1</p>
-        <p> <b>#</b>7b0016</p>
+        <p><b> #7b0016</b>
+        </p>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">
-        <p>
-          <img src="../.gitbook/assets/system-example-a57cb8.png" alt/>
+        <p>&lt;b&gt;&lt;/b&gt;
+          <img src="../.gitbook/assets/system-example-a57cb8.png"
+          alt/>
         </p>
         <p>Example
-          <br /> <b>#</b>a57cb8</p>
+          <br /><b> #a57cb8</b>
+        </p>
       </td>
       <td style="text-align:left">
-        <p>
-          <img src="../.gitbook/assets/system-example-l1-eee9f3.png" alt/>
+        <p>&lt;b&gt;&lt;/b&gt;
+          <img src="../.gitbook/assets/system-example-l1-eee9f3.png"
+          alt/>
         </p>
         <p>Example L1</p>
-        <p><b>  #</b>f8d7da</p>
+        <p><b>  #f8d7da</b>
+        </p>
       </td>
       <td style="text-align:left">
         <p>&#x200B;
           <img src="../.gitbook/assets/system-example-d1-735781.png" alt/>&#x200B;</p>
         <p>Example D1</p>
-        <p> <b>#</b>7b0016</p>
+        <p><b> #7b0016</b>
+        </p>
       </td>
     </tr>
   </tbody>
