@@ -134,7 +134,7 @@ When we need to communicate an information to digest or the status of an update,
       </td>
       <td style="text-align:left">
         <p>
-          <img src="../.gitbook/assets/system-info-dark_-283c61.png" alt/>
+          <img src="../.gitbook/assets/system-info-light_-eeeff2.png" alt/>
         </p>
         <p>Info-Light</p>
         <p><b>  #eeeff2</b>
@@ -145,22 +145,21 @@ When we need to communicate an information to digest or the status of an update,
     <tr>
       <td style="text-align:left">
         <p>
-          <img src="../.gitbook/assets/system-info-dark_-283c61.png" alt/>
+          <img src="../.gitbook/assets/system-success-01b99d.png" alt/>
         </p>
         <p>Success
           <br /> <b>#</b>01b99d</p>
       </td>
       <td style="text-align:left">
         <p>
-          <img src="../.gitbook/assets/system-info-dark_-283c61.png" alt/>
+          <img src="../.gitbook/assets/system-success-light-e6f8f5.png" alt/>
         </p>
         <p>Success L1</p>
         <p><b>  #</b>e6f8f5</p>
       </td>
       <td style="text-align:left">
         <p>&#x200B;
-          <img src="https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MVPzFJV0KiMDuBMGmVD%2F-MYyAIcsiRGiQbcgIDzd%2F-MYyBafNYE4X5k1jpF71%2Fsystem-info-dark_%23283c61.png?alt=media&amp;token=c3d39bcc-9b04-49c6-a0ee-36e94f391ea4"
-          alt/>&#x200B;</p>
+          <img src="../.gitbook/assets/system-success-dark-016f5e.png" alt/>&#x200B;</p>
         <p>Success D1</p>
         <p> <b>#</b>016f5e</p>
       </td>
@@ -168,14 +167,14 @@ When we need to communicate an information to digest or the status of an update,
     <tr>
       <td style="text-align:left">
         <p>
-          <img src="../.gitbook/assets/system-info-dark_-283c61.png" alt/>
+          <img src="../.gitbook/assets/system-warning-ffd975.png" alt/>
         </p>
         <p>Warning
           <br /> <b>#</b>ffd975</p>
       </td>
       <td style="text-align:left">
         <p>
-          <img src="../.gitbook/assets/system-info-dark_-283c61.png" alt/>
+          <img src="../.gitbook/assets/system-warning-l1-fdf6e6.png" alt/>
         </p>
         <p>Warning L1</p>
         <p><b>  #</b>fdf6e6</p>
@@ -185,22 +184,21 @@ When we need to communicate an information to digest or the status of an update,
     <tr>
       <td style="text-align:left">
         <p>
-          <img src="../.gitbook/assets/system-info-dark_-283c61.png" alt/>
+          <img src="../.gitbook/assets/system-error-b00020.png" alt/>
         </p>
         <p>Error
           <br /> <b>#</b>b00020</p>
       </td>
       <td style="text-align:left">
         <p>
-          <img src="../.gitbook/assets/system-info-dark_-283c61.png" alt/>
+          <img src="../.gitbook/assets/system-error-l1-f8d7da.png" alt/>
         </p>
         <p>Error L1</p>
         <p><b>  #</b>f8d7da</p>
       </td>
       <td style="text-align:left">
         <p>&#x200B;
-          <img src="https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MVPzFJV0KiMDuBMGmVD%2F-MYyAIcsiRGiQbcgIDzd%2F-MYyBafNYE4X5k1jpF71%2Fsystem-info-dark_%23283c61.png?alt=media&amp;token=c3d39bcc-9b04-49c6-a0ee-36e94f391ea4"
-          alt/>&#x200B;</p>
+          <img src="../.gitbook/assets/system-error-d1-7b0016.png" alt/>&#x200B;</p>
         <p>Error D1</p>
         <p> <b>#</b>7b0016</p>
       </td>
@@ -208,22 +206,21 @@ When we need to communicate an information to digest or the status of an update,
     <tr>
       <td style="text-align:left">
         <p>
-          <img src="../.gitbook/assets/system-info-dark_-283c61.png" alt/>
+          <img src="../.gitbook/assets/system-example-a57cb8.png" alt/>
         </p>
         <p>Example
           <br /> <b>#</b>a57cb8</p>
       </td>
       <td style="text-align:left">
         <p>
-          <img src="../.gitbook/assets/system-info-dark_-283c61.png" alt/>
+          <img src="../.gitbook/assets/system-example-l1-eee9f3.png" alt/>
         </p>
         <p>Example L1</p>
         <p><b>  #</b>f8d7da</p>
       </td>
       <td style="text-align:left">
         <p>&#x200B;
-          <img src="https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MVPzFJV0KiMDuBMGmVD%2F-MYyAIcsiRGiQbcgIDzd%2F-MYyBafNYE4X5k1jpF71%2Fsystem-info-dark_%23283c61.png?alt=media&amp;token=c3d39bcc-9b04-49c6-a0ee-36e94f391ea4"
-          alt/>&#x200B;</p>
+          <img src="../.gitbook/assets/system-example-d1-735781.png" alt/>&#x200B;</p>
         <p>Example D1</p>
         <p> <b>#</b>7b0016</p>
       </td>
