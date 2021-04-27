@@ -16,4 +16,5 @@
 ## Page Structure
 
 * [Overview](page-structure/pagestructure-overview.md)
+* [Layout](page-structure/layout.md)
 
