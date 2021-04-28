@@ -21,4 +21,5 @@
 * [Components](components/README.md)
   * [Accordion](components/accordions.md)
   * [Badges](components/components-badges.md)
+  * [Breadcrumb](components/breadcrumb.md)
 

@@ -4,7 +4,7 @@
 
 Use responsive classes to define how the grid behaves at different screen sizes.
 
-![](../.gitbook/assets/image%20%2810%29.png)
+![](../.gitbook/assets/image%20%2811%29.png)
 
 ## Breakpoints
 

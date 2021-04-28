@@ -1,6 +1,10 @@
-# Accordion
+---
+description: >-
+  Accordions are interactive elements that allow users to either show or hide
+  related content, through a dropdown mechanism.
+---
 
-Accordions are interactive elements that allow users to either show or hide related content, through a dropdown mechanism.
+# Accordion
 
 #### [Interactive demo](http://cloud.crimsonlogic.com/2021/website/jds/v1/components.html#accordion-wrapper)
 
@@ -8,7 +12,7 @@ Accordions are interactive elements that allow users to either show or hide rela
 
 ![Accordion collapsed](../.gitbook/assets/image%20%282%29.png)
 
-![Accordion opened](../.gitbook/assets/image%20%288%29.png)
+![Accordion opened](../.gitbook/assets/image%20%289%29.png)
 
 ```text
 <div class="accordion">

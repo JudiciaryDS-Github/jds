@@ -24,7 +24,7 @@ Your Masthead should:
 
 All judiciary websites shall adopt a Global Primary Navigation Panel across all pages. The following header navigation has 2 types of dropdowns that can be used based on the context and need.
 
-![](../.gitbook/assets/image%20%287%29.png)
+![](../.gitbook/assets/image%20%288%29.png)
 
 ```text
 <header class="navbar-container">
@@ -81,7 +81,7 @@ All judiciary websites shall adopt a Global Primary Navigation Panel across all 
 
 For services with 2 or more levels of navigation, pages should contain secondary navigation, at the side to aid users in locating site content. \(Optional\)
 
-![](../.gitbook/assets/image%20%289%29.png)
+![](../.gitbook/assets/image%20%2810%29.png)
 
 ```text
 <aside class="jds-menu">
@@ -114,7 +114,7 @@ Side navigation should:
 
 We advise that you avoid using more than 6 columns of footer links.
 
-![](../.gitbook/assets/image%20%2812%29.png)
+![](../.gitbook/assets/image%20%2813%29.png)
 
 ```text
 <footer class="jds-footer">

@@ -1,6 +1,11 @@
-# Badges
+---
+description: >-
+  Small numerical value or status descriptor for UI elements. Badge normally
+  appears in proximity to notifications or user avatars with eye-catching
+  appeal, typically displaying unread messages count.
+---
 
-Small numerical value or status descriptor for UI elements. Badge normally appears in proximity to notifications or user avatars with eye-catching appeal, typically displaying unread messages count.
+# Badges
 
 #### [Interactive demo](http://cloud.crimsonlogic.com/2021/website/jds/v1/components.html#badge-wrapper)
 
@@ -8,7 +13,7 @@ Small numerical value or status descriptor for UI elements. Badge normally appea
 
 Badges scale to match the size of the immediate parent element by using relative font sizing and em units.
 
-![](../.gitbook/assets/image%20%2813%29.png)
+![](../.gitbook/assets/image%20%2814%29.png)
 
 ```text
 <h3>Example heading <span class="badge badge-primary">New</span></h3>
