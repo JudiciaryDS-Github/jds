@@ -13,9 +13,11 @@
 * [Images](visual-styling/images.md)
 * [Accessibility](visual-styling/accessibility.md)
 
-## Page Structure
+---
 
-* [Overview](page-structure/pagestructure-overview.md)
-* [Layout](page-structure/pagestructure-layout.md)
-* [Considerations](page-structure/pagestructure-considerations.md)
+* [Page Structure](pagestructure-overview/README.md)
+  * [Layout](pagestructure-overview/pagestructure-layout.md)
+  * [Considerations](pagestructure-overview/pagestructure-considerations.md)
+* [Components](components/README.md)
+  * [Accordion](components/accordions.md)
 
