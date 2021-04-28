@@ -6,7 +6,7 @@ description: >-
 
 # Breadcrumb
 
-#### [Interactive](http://cloud.crimsonlogic.com/2021/website/jds/v1/components.html#breadcrumb-wrapper) [demo](http://cloud.crimsonlogic.com/2021/website/jds/v1/components.html#breadcrumb-wrapper)
+## [Interactive](http://cloud.crimsonlogic.com/2021/website/jds/v1/components.html#breadcrumb-wrapper) [demo](http://cloud.crimsonlogic.com/2021/website/jds/v1/components.html#breadcrumb-wrapper)
 
 ![](../.gitbook/assets/image%20%287%29.png)
 

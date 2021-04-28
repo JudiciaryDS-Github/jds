@@ -6,7 +6,7 @@ description: >-
 
 # Accordion
 
-#### [Interactive demo](http://cloud.crimsonlogic.com/2021/website/jds/v1/components.html#accordion-wrapper)
+## [Interactive demo](http://cloud.crimsonlogic.com/2021/website/jds/v1/components.html#accordion-wrapper)
 
 ### Types
 

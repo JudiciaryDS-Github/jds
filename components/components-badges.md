@@ -7,7 +7,7 @@ description: >-
 
 # Badges
 
-#### [Interactive demo](http://cloud.crimsonlogic.com/2021/website/jds/v1/components.html#badge-wrapper)
+## [Interactive demo](http://cloud.crimsonlogic.com/2021/website/jds/v1/components.html#badge-wrapper)
 
 ## Examples
 
