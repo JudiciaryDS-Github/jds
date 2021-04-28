@@ -6,7 +6,7 @@ description: Buttons are clickable items used to perform an action.
 
 ## [Interactive demo](http://cloud.crimsonlogic.com/2021/website/jds/v1/components.html#buttons-wrapper)
 
-![](../.gitbook/assets/image%20%2818%29.png)
+![](../.gitbook/assets/image%20%2813%29.png)
 
 ```text
 <!--Types-->
@@ -18,10 +18,9 @@ description: Buttons are clickable items used to perform an action.
  <button type="button" class="btn btn-primary"><i class="fal fa-list-alt mr-2"></i>Icon left</button>
 <button type="button" class="btn btn-link"><i class="fal fa-list-alt mr-2"></i>Text</button>
 <button type="button" class="btn icon-only"><i class="fal fa-list-alt"></i></button>
-
 ```
 
-![](../.gitbook/assets/image%20%282%29.png)
+![](../.gitbook/assets/image.png)
 
 ```text
 <!--Normal-->
