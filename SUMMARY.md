@@ -20,4 +20,5 @@
   * [Considerations](pagestructure-overview/pagestructure-considerations.md)
 * [Components](components/README.md)
   * [Accordion](components/accordions.md)
+  * [Badges](components/components-badges.md)
 

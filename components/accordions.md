@@ -1,9 +1,3 @@
----
-description: >-
-  Accordions are interactive elements that allow users to either show or hide
-  related content, through a dropdown mechanism.
----
-
 # Accordion
 
 Accordions are interactive elements that allow users to either show or hide related content, through a dropdown mechanism.  
