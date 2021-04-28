@@ -6,9 +6,9 @@ Accordions are interactive elements that allow users to either show or hide rela
 
 ### Types
 
-![Accordion collapsed](../.gitbook/assets/image.png)
+![Accordion collapsed](../.gitbook/assets/image%20%281%29.png)
 
-![Accordion opened](../.gitbook/assets/image%20%285%29.png)
+![Accordion opened](../.gitbook/assets/image%20%286%29.png)
 
 ```text
 <div class="accordion">

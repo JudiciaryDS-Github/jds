@@ -7,7 +7,7 @@ Each page is wrapped inside a .wrapper div and it contains the following key com
 3. **Main**: Includes information, forms, components, and more.
 4. **Global Footer**: includes sitemap
 
-![](../.gitbook/assets/image%20%282%29.png)
+![](../.gitbook/assets/image%20%283%29.png)
 
 ```text
 <div class="wrapper sticky" id="page">
