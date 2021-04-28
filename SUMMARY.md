@@ -20,6 +20,7 @@
   * [Considerations](pagestructure-overview/pagestructure-considerations.md)
 * [Components](components/README.md)
   * [Accordion](components/accordions.md)
-  * [Badges](components/components-badges.md)
+  * [Badge](components/components-badges.md)
   * [Breadcrumb](components/breadcrumb.md)
+  * [Button](components/button.md)
 
