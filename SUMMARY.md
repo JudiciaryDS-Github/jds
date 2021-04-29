@@ -28,4 +28,5 @@
   * [Carousel](components/carousel.md)
   * [Checkboxes](components/checkboxes.md)
   * [Dropdown / Side Nav](components/dropdown-side-nav.md)
+  * [Hero](components/hero.md)
 
