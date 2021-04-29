@@ -2,7 +2,7 @@
 description: Dropdowns menus allow users to read or select different options.
 ---
 
-# Dropdown \(Side Nav\)
+# Dropdown / Side Nav
 
 ## [Interactive demo](http://cloud.crimsonlogic.com/2021/website/jds/v1/components.html#dropdown-wrapper)
 
