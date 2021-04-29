@@ -26,4 +26,5 @@
   * [Cards](components/cards.md)
   * [Callout](components/callout.md)
   * [Carousel](components/carousel.md)
+  * [Checkboxes](components/checkboxes.md)
 
