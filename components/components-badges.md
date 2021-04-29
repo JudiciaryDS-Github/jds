@@ -13,7 +13,7 @@ description: >-
 
 Badges scale to match the size of the immediate parent element by using relative font sizing and em units.
 
-![](../.gitbook/assets/image%20%2821%29.png)
+![](../.gitbook/assets/image%20%2825%29.png)
 
 ```text
 <h3>Example heading <span class="badge badge-primary">New</span></h3>
@@ -23,7 +23,7 @@ Badges scale to match the size of the immediate parent element by using relative
 
 Unread messages count or new message notification appears close to button or icon.
 
-![Used for record count in Tabs](../.gitbook/assets/image%20%281%29.png)
+![Used for record count in Tabs](../.gitbook/assets/image%20%282%29.png)
 
 ```text
 <span class="badge badge-primary">04</span>
@@ -41,7 +41,7 @@ Unread messages count or new message notification appears close to button or ico
 
 Appears next to user avatars with eye-catching appeal. Status shown below are Available, Away, Busy and Offline.
 
-![](../.gitbook/assets/image%20%287%29.png)
+![](../.gitbook/assets/image%20%288%29.png)
 
 ```text
 <a href="javascript:void(0);" class="user-status available" title="Available">
