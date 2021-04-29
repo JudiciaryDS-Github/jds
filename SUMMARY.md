@@ -24,4 +24,5 @@
   * [Breadcrumb](components/breadcrumb.md)
   * [Button](components/button.md)
   * [Cards](components/cards.md)
+  * [Callout](components/callout.md)
 
