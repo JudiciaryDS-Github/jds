@@ -32,4 +32,7 @@
   * [Loader](components/loader.md)
   * [Modal](components/modal.md)
   * [Notification](components/notification.md)
+  * [Pagination](components/pagination.md)
+  * [Popover](components/popover.md)
+* [Radio Button](radio-button.md)
 
