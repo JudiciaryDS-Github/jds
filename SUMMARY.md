@@ -35,4 +35,6 @@
   * [Pagination](components/pagination.md)
   * [Popover](components/popover.md)
   * [Radio Button](components/radio-button.md)
+  * [Scroll to top](components/scroll-to-top.md)
+* [Tab](tab.md)
 

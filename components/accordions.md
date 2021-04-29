@@ -10,9 +10,9 @@ description: >-
 
 ### Types
 
-![Accordion collapsed](../.gitbook/assets/image%20%2810%29.png)
+![Accordion collapsed](../.gitbook/assets/image%20%2813%29.png)
 
-![Accordion opened](../.gitbook/assets/image%20%2837%29.png)
+![Accordion opened](../.gitbook/assets/image%20%2840%29.png)
 
 ```text
 <div class="accordion">

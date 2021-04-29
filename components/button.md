@@ -6,7 +6,7 @@ description: Buttons are clickable items used to perform an action.
 
 ## [Interactive demo](http://cloud.crimsonlogic.com/2021/website/jds/v1/components.html#buttons-wrapper)
 
-![](../.gitbook/assets/image%20%2842%29.png)
+![](../.gitbook/assets/image%20%2846%29.png)
 
 ```text
 <!--Types-->
