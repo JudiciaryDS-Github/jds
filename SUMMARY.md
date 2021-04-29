@@ -27,4 +27,5 @@
   * [Callout](components/callout.md)
   * [Carousel](components/carousel.md)
   * [Checkboxes](components/checkboxes.md)
+  * [Dropdown \(Side Nav\)](components/dropdown-side-nav.md)
 
