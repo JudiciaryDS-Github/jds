@@ -29,4 +29,6 @@
   * [Checkboxes](components/checkboxes.md)
   * [Dropdown / Side Nav](components/dropdown-side-nav.md)
   * [Hero](components/hero.md)
+  * [Loader](components/loader.md)
+  * [Modal](components/modal.md)
 
