@@ -34,5 +34,5 @@
   * [Notification](components/notification.md)
   * [Pagination](components/pagination.md)
   * [Popover](components/popover.md)
-* [Radio Button](radio-button.md)
+  * [Radio Button](components/radio-button.md)
 
