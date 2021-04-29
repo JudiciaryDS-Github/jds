@@ -12,9 +12,9 @@ For more info on Bootstrap Modal please visit the official [Bootstrap Documentat
 
 ## [Interactive demo](http://cloud.crimsonlogic.com/2021/website/jds/v1/components.html#notfication-wrapper)
 
-### Example
+### Modals
 
-![Modals have few optional sizes, available via modifier classes to be placed on a .modal-dialog. These sizes triggers on at certain breakpoints to avoid horizontal scrollbars on narrower viewports.](../.gitbook/assets/image%20%2822%29.png)
+![Modals have few optional sizes, available via modifier classes to be placed on a .modal-dialog. These sizes triggers on at certain breakpoints to avoid horizontal scrollbars on narrower viewports.](../.gitbook/assets/image%20%2823%29.png)
 
 ```text
  <!-- Button trigger modal-->
@@ -119,5 +119,108 @@ For more info on Bootstrap Modal please visit the official [Bootstrap Documentat
               </div>
             </div>
             <!--end::Modal--> 
+```
+
+### Confirmation Dialogs
+
+![](../.gitbook/assets/image%20%2828%29.png)
+
+#### Default
+
+![](../.gitbook/assets/image%20%2818%29.png)
+
+```text
+<!--Buttons to trigger confirmation dialogs-->
+<button type="button" class="btn btn-outline-primary" data-toggle="modal" data-target="#default">Default</button>
+<button type="button" class="btn btn-outline-success" data-toggle="modal" data-target="#success">Success</button>
+<button type="button" class="btn btn-outline-warning" data-toggle="modal" data-target="#warning">Warning</button>
+<button type="button" class="btn btn-outline-error" data-toggle="modal" data-target="#error">Error</button>
+<button type="button" class="btn btn-outline-example" data-toggle="modal" data-target="#example">Example</button>
+<!--Confirmation dialog modals-->
+<div class="modal fade" id="default" tabindex="-1" aria-labelledby="default" style="display: block;" aria-modal="true" role="dialog">
+    <div class="modal-dialog modal-dialog-centered modal-lg" role="document">
+      <div class="modal-content has-icon alert alert-default">
+        <div class="modal-header">
+          <h3 class="modal-title"><i class="fas fa-info-circle"></i>Confirm Action</h3>
+          <button type="button" class="close" data-dismiss="modal" aria-label="Close"> <i aria-hidden="true" class="fal fa-times"></i> </button>
+        </div>
+        <div class="modal-body">
+          <p>Are you sure you want to take this <strong>Specific Action</strong> ?</p>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-outline" data-dismiss="modal">Cancel</button>
+          <button type="button" class="btn btn-primary btn-action">OK</button>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="modal fade" id="success" tabindex="-1" aria-labelledby="success" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered modal-lg" role="document">
+      <div class="modal-content has-icon alert alert-success">
+        <div class="modal-header">
+          <h3 class="modal-title"><i class="fas fa-check-circle"></i>Confirm Action</h3>
+          <button type="button" class="close" data-dismiss="modal" aria-label="Close"> <i aria-hidden="true" class="fal fa-times"></i> </button>
+        </div>
+        <div class="modal-body">
+          <p>Are you sure you want to take this <strong>Specific Action</strong> ?</p>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-outline" data-dismiss="modal">Cancel</button>
+          <button type="button" class="btn btn-success btn-action">OK</button>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="modal fade" id="warning" tabindex="-1" aria-labelledby="warning" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered modal-lg" role="document">
+      <div class="modal-content has-icon alert alert-warning">
+        <div class="modal-header">
+          <h3 class="modal-title"><i class="fas fa-exclamation-circle"></i>Confirm Action</h3>
+          <button type="button" class="close" data-dismiss="modal" aria-label="Close"> <i aria-hidden="true" class="fal fa-times"></i> </button>
+        </div>
+        <div class="modal-body">
+          <p>Are you sure you want to take this <strong>Specific Action</strong> ?</p>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-outline" data-dismiss="modal">Cancel</button>
+          <button type="button" class="btn btn-warning btn-action">OK</button>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="modal fade" id="error" tabindex="-1" aria-labelledby="error" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered modal-lg" role="document">
+      <div class="modal-content has-icon alert alert-error">
+        <div class="modal-header">
+          <h3 class="modal-title"><i class="fas fa-times-circle"></i>Confirm Action</h3>
+          <button type="button" class="close" data-dismiss="modal" aria-label="Close"> <i aria-hidden="true" class="fal fa-times"></i> </button>
+        </div>
+        <div class="modal-body">
+          <p>Are you sure you want to take this <strong>Specific Action</strong> ?</p>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-outline" data-dismiss="modal">Cancel</button>
+          <button type="button" class="btn btn-error btn-action">OK</button>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="modal fade" id="example" tabindex="-1" aria-labelledby="example" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered modal-lg" role="document">
+      <div class="modal-content has-icon alert alert-example">
+        <div class="modal-header">
+          <h3 class="modal-title"><i class="fal fa-lightbulb-on"></i>Confirm Action</h3>
+          <button type="button" class="close" data-dismiss="modal" aria-label="Close"> <i aria-hidden="true" class="fal fa-times"></i> </button>
+        </div>
+        <div class="modal-body">
+          <p>Are you sure you want to take this <strong>Specific Action</strong> ?</p>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-outline" data-dismiss="modal">Cancel</button>
+          <button type="button" class="btn btn-example btn-action">OK</button>
+        </div>
+      </div>
+    </div>
+  </div>
 ```
 
