@@ -13,11 +13,9 @@ Cards are a useful UI component for grouping several related pieces of informati
 
 ### Examples
 
-![](../.gitbook/assets/image%20%2830%29.png)
+![](../.gitbook/assets/image%20%2831%29.png)
 
 ![](../.gitbook/assets/image%20%2815%29.png)
-
-![](../.gitbook/assets/image%20%2817%29.png)
 
 ```text
 <div class="row">
@@ -72,6 +70,78 @@ Cards are a useful UI component for grouping several related pieces of informati
                 <button type="button" class="btn btn-link mr-3"><i class="fal fa-arrow-to-bottom"></i></button>
                 <button type="button" class="btn btn-link"><i class="fal fa-calendar-alt"></i></button>
               </div>
+            </div>
+          </div>
+</div>
+```
+
+### Cards with image
+
+![](../.gitbook/assets/image%20%2817%29.png)
+
+```text
+<div class="row">
+          <div class="col-xl-3 col-lg-6 col-md-12 mb-3">
+            <div class="card has-image">
+              <div class="card-header"><img class="card-img-top  img-fluid" src="images/img1.jpg" alt="Card image"></div>
+              <div class="card-body">
+                <h4 class="card-title">Card title</h4>
+                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+              </div>
+              <div class="card-footer">
+                <button type="button" class="btn btn-primary">Action</button>
+              </div>
+            </div>
+          </div>
+          <div class="col-xl-3 col-lg-6 col-md-12 mb-3">
+            <div class="card has-image">
+              <div class="card-header"><img class="card-img-top  img-fluid" src="images/img2.jpg" alt="Card image"></div>
+              <div class="card-body">
+                <h4 class="card-title">Card title</h4>
+                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+              </div>
+              <div class="card-footer">
+                <button type="button" class="btn btn-primary">Action</button>
+              </div>
+            </div>
+          </div>
+          <div class="col-xl-3 col-lg-6 col-md-12 mb-3">
+            <div class="card has-image">
+              <div class="card-header"><img class="card-img-top img-fluid" src="images/img3.jpg" alt="Card image"></div>
+              <div class="card-body">
+                <h4 class="card-title">Card title</h4>
+                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+              </div>
+              <div class="card-footer">
+                <button type="button" class="btn btn-primary">Action</button>
+              </div>
+            </div>
+          </div>
+          <div class="col-xl-3 col-lg-6 col-md-12 mb-3">
+            <div class="card has-image">
+              <div class="card-header"><img class="card-img-top img-fluid" src="images/img4.jpg" alt="Card image"></div>
+              <div class="card-body">
+                <h4 class="card-title">Card title</h4>
+                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+              </div>
+              <div class="card-footer">
+                <button type="button" class="btn btn-primary">Action</button>
+              </div>
+            </div>
+          </div>
+        </div>
+```
+
+### Horizontal Card
+
+```text
+<div class="card">
+          <div class="card-horizontal">
+            <div class="img-circle-wrapper"> <i class="fal fa-briefcase"></i> </div>
+            <div class="card-body"> <span class="jds-tag has-warning">Pending</span>
+              <h4 class="card-title">Card title</h4>
+              <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+              <button type="button" class="btn btn-primary">Action</button>
             </div>
           </div>
 </div>
