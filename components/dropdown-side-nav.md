@@ -8,7 +8,7 @@ description: Dropdowns menus allow users to read or select different options.
 
 ### Example
 
-![](../.gitbook/assets/image%20%2835%29.png)
+![](../.gitbook/assets/image%20%2841%29.png)
 
 ```text
 <div class="row">

@@ -31,4 +31,5 @@
   * [Hero](components/hero.md)
   * [Loader](components/loader.md)
   * [Modal](components/modal.md)
+  * [Notification](components/notification.md)
 

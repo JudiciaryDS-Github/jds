@@ -14,7 +14,7 @@ For more info on Bootstrap Modal please visit the official [Bootstrap Documentat
 
 ### Example
 
-![Modals have few optional sizes, available via modifier classes to be placed on a .modal-dialog. These sizes triggers on at certain breakpoints to avoid horizontal scrollbars on narrower viewports.](../.gitbook/assets/image%20%2818%29.png)
+![Modals have few optional sizes, available via modifier classes to be placed on a .modal-dialog. These sizes triggers on at certain breakpoints to avoid horizontal scrollbars on narrower viewports.](../.gitbook/assets/image%20%2822%29.png)
 
 ```text
  <!-- Button trigger modal-->
