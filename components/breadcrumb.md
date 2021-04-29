@@ -8,7 +8,7 @@ description: >-
 
 ## [Interactive](http://cloud.crimsonlogic.com/2021/website/jds/v1/components.html#breadcrumb-wrapper) [demo](http://cloud.crimsonlogic.com/2021/website/jds/v1/components.html#breadcrumb-wrapper)
 
-![](../.gitbook/assets/image%20%2818%29.png)
+![](../.gitbook/assets/image%20%2819%29.png)
 
 ```text
 <nav aria-label="Full path to the current page">
