@@ -4,7 +4,7 @@ description: >-
   custom components for creating a wide variety of forms.
 ---
 
-# Forms - Layout
+# Form - Layout
 
 ## [Interactive demo](http://cloud.crimsonlogic.com/2021/website/jds/v1/page-with-form.html)
 
