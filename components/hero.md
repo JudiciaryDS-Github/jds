@@ -10,7 +10,7 @@ description: >-
 
 ### Hero image with tagline and call to action button
 
-![](../.gitbook/assets/image%20%2859%29.png)
+![](../.gitbook/assets/image%20%2866%29.png)
 
 ```text
    <div class="hero-banner">
@@ -26,7 +26,7 @@ description: >-
 
 ### Hero image with Search Bar
 
-![](../.gitbook/assets/image%20%2862%29.png)
+![](../.gitbook/assets/image%20%2869%29.png)
 
 ```text
 <div class="hero-banner has-search">

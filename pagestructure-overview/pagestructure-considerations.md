@@ -4,13 +4,13 @@
 
 Use responsive classes to define how the grid behaves at different screen sizes.
 
-![](../.gitbook/assets/image%20%2867%29.png)
+![](../.gitbook/assets/image%20%2874%29.png)
 
 ## Breakpoints
 
 Under the grid system, each column's width can be defined for a specific viewport size: mobile, tablet, desktop, widescreen and full HD.
 
-![](../.gitbook/assets/image%20%2840%29.png)
+![](../.gitbook/assets/image%20%2843%29.png)
 
 ## Grid
 

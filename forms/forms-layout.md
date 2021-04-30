@@ -8,9 +8,9 @@ description: >-
 
 ## [Interactive demo](http://cloud.crimsonlogic.com/2021/website/jds/v1/page-with-form.html)
 
-![](../.gitbook/assets/image%20%2844%29.png)
+![](../.gitbook/assets/image%20%2847%29.png)
 
-![](../.gitbook/assets/image%20%2856%29.png)
+![](../.gitbook/assets/image%20%2862%29.png)
 
 ```text
 <div class="form-panel">
@@ -129,7 +129,7 @@ description: >-
 
 ## Form Panel Boxed
 
-![](../.gitbook/assets/image%20%2868%29.png)
+![](../.gitbook/assets/image%20%2875%29.png)
 
 ```text
 <div class="form-panel-boxed">

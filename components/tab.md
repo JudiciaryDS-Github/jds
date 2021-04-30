@@ -52,7 +52,7 @@ By default tabs are aligned to left. If it needs to be centered or right aligned
 
 ### Horizontal tabs with icon - Centered
 
-![Note: To align the tabs to center , replace left with center in the &apos;ul&apos; tag. Change &amp;lt;ul class=&quot;nav nav-tabs left&quot;&amp;gt; to &amp;lt;ul class=&quot;nav nav-tabs center&quot;&amp;gt;.  If the icon is not required in the tab, remove has-icon class &amp;lt;div class=&quot;horizontal-tab has-icon&quot;&amp;gt; is not needed.](../.gitbook/assets/image%20%2871%29.png)
+![Note: To align the tabs to center , replace left with center in the &apos;ul&apos; tag. Change &amp;lt;ul class=&quot;nav nav-tabs left&quot;&amp;gt; to &amp;lt;ul class=&quot;nav nav-tabs center&quot;&amp;gt;.  If the icon is not required in the tab, remove has-icon class &amp;lt;div class=&quot;horizontal-tab has-icon&quot;&amp;gt; is not needed.](../.gitbook/assets/image%20%2878%29.png)
 
 ### Horizontal boxed tabs with icon
 
@@ -96,7 +96,7 @@ By default tabs are aligned to left. If it needs to be centered or right aligned
 
 ### Vertical tabs with icon - Default
 
-![](../.gitbook/assets/image%20%2872%29.png)
+![](../.gitbook/assets/image%20%2879%29.png)
 
 ```text
 <div class="vertical-tab d-flex">
@@ -147,7 +147,7 @@ By default tabs are aligned to left. If it needs to be centered or right aligned
 
 ### Vertical tabs with icon - Boxed
 
-![](../.gitbook/assets/image%20%2882%29.png)
+![](../.gitbook/assets/image%20%2890%29.png)
 
 ```text
 <div class="vertical-boxed-tab has-icon d-flex">
