@@ -4,17 +4,12 @@
 * [Installation](jds-install.md)
 * [What's New](whatsnew.md)
 * [Feedback](feedback.md)
-
-## Visual Styling
-
-* [Colours](visual-styling/colours.md)
-* [Typography](visual-styling/typography.md)
-* [Icons](visual-styling/icons.md)
-* [Images](visual-styling/images.md)
-* [Accessibility](visual-styling/accessibility.md)
-
----
-
+* [Visual Styling](visual-styling-1/README.md)
+  * [Colours](visual-styling-1/colours.md)
+  * [Icons](visual-styling-1/icons.md)
+  * [Images](visual-styling-1/images.md)
+  * [Typography](visual-styling-1/typography.md)
+  * [Accessibility](visual-styling-1/accessibility.md)
 * [Page Structure](pagestructure-overview/README.md)
   * [Layout](pagestructure-overview/pagestructure-layout.md)
   * [Considerations](pagestructure-overview/pagestructure-considerations.md)
