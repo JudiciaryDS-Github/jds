@@ -71,7 +71,7 @@ For proper styling, use one of the required contextual classes \(e.g., .alert-su
 </div>
 ```
 
-![](../.gitbook/assets/image%20%2872%29.png)
+![](../.gitbook/assets/image%20%2876%29.png)
 
 ```text
 <!--Full width notification bar to show system down time, maintenance notices etc..-->

@@ -8,7 +8,7 @@ description: >-
 
 ## [Interactive demo](http://cloud.crimsonlogic.com/2021/website/jds/v1/components.html#textinput-wrapper)
 
-![](../.gitbook/assets/image%20%2854%29.png)
+![](../.gitbook/assets/image%20%2856%29.png)
 
 ![](../.gitbook/assets/image%20%2828%29.png)
 

@@ -14,7 +14,7 @@ For more info on Bootstrap Modal please visit the official [Bootstrap Documentat
 
 ### Modals
 
-![Modals have few optional sizes, available via modifier classes to be placed on a .modal-dialog. These sizes triggers on at certain breakpoints to avoid horizontal scrollbars on narrower viewports.](../.gitbook/assets/image%20%2839%29.png)
+![Modals have few optional sizes, available via modifier classes to be placed on a .modal-dialog. These sizes triggers on at certain breakpoints to avoid horizontal scrollbars on narrower viewports.](../.gitbook/assets/image%20%2840%29.png)
 
 ```text
  <!-- Button trigger modal-->
@@ -123,7 +123,7 @@ For more info on Bootstrap Modal please visit the official [Bootstrap Documentat
 
 ### Confirmation Dialogs
 
-![](../.gitbook/assets/image%20%2844%29.png)
+![](../.gitbook/assets/image%20%2845%29.png)
 
 #### Default
 
