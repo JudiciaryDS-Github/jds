@@ -40,5 +40,5 @@
   * [Tag](components/tag.md)
   * [Text Area](components/text-area.md)
   * [Text Input](components/text-input.md)
-* [Tooltip](tooltip.md)
+  * [Tooltip](components/tooltip.md)
 
