@@ -8,7 +8,7 @@ description: >-
 
 ## [Interactive demo](http://cloud.crimsonlogic.com/2021/website/jds/v1/components.html#pagination-wrapper)
 
-## Example
+### Example
 
 ![](../.gitbook/assets/image%20%2817%29.png)
 
