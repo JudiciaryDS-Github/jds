@@ -11,7 +11,7 @@ description: >-
 
 ## Example
 
-![](../.gitbook/assets/image%20%2828%29.png)
+![](../.gitbook/assets/image%20%2830%29.png)
 
 ```text
 <!--Checkboxes Stacked-->

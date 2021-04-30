@@ -13,7 +13,7 @@ description: >-
 
 Badges scale to match the size of the immediate parent element by using relative font sizing and em units.
 
-![](../.gitbook/assets/image%20%2872%29.png)
+![](../.gitbook/assets/image%20%2875%29.png)
 
 ```text
 <h3>Example heading <span class="badge badge-primary">New</span></h3>

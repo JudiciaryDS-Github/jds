@@ -20,7 +20,7 @@ Use this pattern when you require users to key in their Singapore-based address.
 
 Note: Give your users the option to either key in their postal code to look up their address, or enter their full address manually.
 
-![](../.gitbook/assets/image%20%2855%29.png)
+![](../.gitbook/assets/image%20%2858%29.png)
 
 ```text
 <div class="form-panel">
@@ -309,7 +309,7 @@ Below you will find a General Date Format you can use, along with the code neede
 
 ### DD MM YYYY
 
-![](../.gitbook/assets/image%20%2882%29.png)
+![](../.gitbook/assets/image%20%2886%29.png)
 
 ### MM YYYY
 

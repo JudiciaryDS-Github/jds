@@ -12,7 +12,7 @@ description: >-
 
 ![Accordion collapsed](../.gitbook/assets/image%20%2823%29.png)
 
-![Accordion opened](../.gitbook/assets/image%20%2860%29.png)
+![Accordion opened](../.gitbook/assets/image%20%2863%29.png)
 
 ```text
 <div class="accordion">
