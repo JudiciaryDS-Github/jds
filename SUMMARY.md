@@ -37,4 +37,5 @@
   * [Radio Button](components/radio-button.md)
   * [Scroll to top](components/scroll-to-top.md)
   * [Tab](components/tab.md)
+  * [Tag](components/tag.md)
 
