@@ -41,4 +41,6 @@
   * [Text Area](components/text-area.md)
   * [Text Input](components/text-input.md)
   * [Tooltip](components/tooltip.md)
+  * [Typography](components/typography.md)
+* [Wizard](wizard.md)
 

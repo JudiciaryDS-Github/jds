@@ -8,7 +8,7 @@ description: Becomes visible when the user starts to scroll the page.
 
 ### Example
 
-![](../.gitbook/assets/image%20%2813%29.png)
+![](../.gitbook/assets/image%20%2815%29.png)
 
 ```text
 <a href="javascript:" id="scroll-to-top" title="Scroll to Top"><span class="fas fa-chevron-up"></span></a> 

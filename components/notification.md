@@ -15,7 +15,7 @@ Notifications / Alerts are available for any length of text, as well as an optio
 For proper styling, use one of the required contextual classes \(e.g., .alert-success\). For inline dismissal, use the alerts you must use \( JS provided\).  
 
 
-![](../.gitbook/assets/image%20%2828%29.png)
+![](../.gitbook/assets/image%20%2830%29.png)
 
 ```text
 <!--Default Alert-->
@@ -71,7 +71,7 @@ For proper styling, use one of the required contextual classes \(e.g., .alert-su
 </div>
 ```
 
-![](../.gitbook/assets/image%20%2870%29.png)
+![](../.gitbook/assets/image%20%2872%29.png)
 
 ```text
 <!--Full width notification bar to show system down time, maintenance notices etc..-->
