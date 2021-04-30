@@ -16,7 +16,7 @@ Avoid unnecessary decoration. Only use images if there’s a real user need.
 
 Images should be as generic as possible. Look for images that are generic to represents a legal concept as we want to avoid law being perceived as inaccessible and unapproachable.﻿
 
-![](../.gitbook/assets/image%20%2892%29.png)
+![](../.gitbook/assets/image%20%2894%29.png)
 
 #### 2. Be neutral
 

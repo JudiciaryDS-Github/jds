@@ -129,7 +129,7 @@ description: >-
 
 ## Form Panel Boxed
 
-![](../.gitbook/assets/image%20%2875%29.png)
+![](../.gitbook/assets/image%20%2877%29.png)
 
 ```text
 <div class="form-panel-boxed">

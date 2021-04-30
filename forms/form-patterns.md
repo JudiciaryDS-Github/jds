@@ -20,7 +20,7 @@ Use this pattern when you require users to key in their Singapore-based address.
 
 Note: Give your users the option to either key in their postal code to look up their address, or enter their full address manually.
 
-![](../.gitbook/assets/image%20%2865%29.png)
+![](../.gitbook/assets/image%20%2867%29.png)
 
 ```text
 <div class="form-panel">
@@ -309,7 +309,7 @@ Below you will find a General Date Format you can use, along with the code neede
 
 ### DD MM YYYY
 
-![](../.gitbook/assets/image%20%2895%29.png)
+![](../.gitbook/assets/image%20%2897%29.png)
 
 ### MM YYYY
 
@@ -329,11 +329,68 @@ Below you will find a General Date Format you can use, along with the code neede
 {% endtab %}
 
 {% tab title="Email Address" %}
+### Email address input
 
+Use this pattern when you need to ask users for their email address.
+
+Note: State clearly what their email address will be used for.
+
+### Usage
+
+Below you will find a General Email Address you can use, along with the code needed to build this element.
+
+![](../.gitbook/assets/image%20%2864%29.png)
+
+```text
+<div class="form-group">
+   <label class="col-form-label">Email</label>
+   <input class="form-control" id="email" name="email" type="email" aria-describedby="email" autocomplete="email" spellcheck="false">
+ </div>
+```
+
+### Guidelines
+
+#### Explain the rationale of requesting for users’ email address
+
+This allows users to:
+
+* Feel assured that their email address will not be misappropriated
+* Choose which email address they prefer to use
+
+Make sure it works for all users
+
+* Your field text should accommodate the maximum length of email addresses \(256 characters long, including punctuation\)
+
+#### Guide users to enter their email address
+
+Make it easier for users by:
+
+* Allowing them to copy and paste their email address
+* Setting the type attribute to email so that the correct keyboard is displayed
+* Setting the spellcheck attribute to false so that their email addresses are not spell checked by the browser or device
+* Setting the autocomplete attribute so that browsers can fill in their email address if they have entered it previously
+* You will need to include the autocomplete attribute to meet [WCAG 2.1 AA](https://www.w3.org/WAI/WCAG21/Understanding/identify-input-purpose.html) for production.
 {% endtab %}
 
 {% tab title="Names" %}
+### Collecting Names
 
+Use this pattern when you need to ask users for their names.
+
+### Types
+
+#### General name field
+
+You should follow this pattern when you need to ask for a user’s name. You should only ask for names if you need it for a service.
+
+![](../.gitbook/assets/image%20%2865%29.png)
+
+```text
+<div class="form-group required">
+                  <label class="col-form-label">Full Name</label>
+                  <input class="form-control">
+                  <small class="form-text text-muted">Enter full name as per ID document</small> </div>
+```
 {% endtab %}
 {% endtabs %}
 
