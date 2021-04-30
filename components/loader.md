@@ -8,7 +8,7 @@ description: To display loading state of a page or a section.
 
 ### Example
 
-![](../.gitbook/assets/image%20%2818%29.png)
+![](../.gitbook/assets/image%20%2819%29.png)
 
 ```text
 <div id="loader">
