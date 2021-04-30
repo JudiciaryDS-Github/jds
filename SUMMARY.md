@@ -38,4 +38,5 @@
   * [Scroll to top](components/scroll-to-top.md)
   * [Tab](components/tab.md)
   * [Tag](components/tag.md)
+  * [Text Area](components/text-area.md)
 
