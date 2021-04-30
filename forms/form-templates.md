@@ -13,7 +13,5 @@ description: Form templates are included in JDS downloadable package.
 
 Form with MyInfo embedded, use for services that allows auto filling with MyInfo service. 
 
-## [Interactive demo](http://cloud.crimsonlogic.com/2021/website/jds/v1/my-info.html)
-
-![](../.gitbook/assets/image%20%282%29.png)
+![My Info form sample \(Screenshot\)](../.gitbook/assets/image%20%282%29.png)
 
