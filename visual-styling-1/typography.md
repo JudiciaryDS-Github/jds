@@ -1,3 +1,9 @@
+---
+description: >-
+  Use typography to present the hierarchy of the content for better efficiency
+  and reading experience.
+---
+
 # Typography
 
 ## 4XL
