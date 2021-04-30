@@ -10,7 +10,7 @@ description: >-
 
 ### Example
 
-![](../.gitbook/assets/image%20%2817%29.png)
+![](../.gitbook/assets/image%20%2818%29.png)
 
 ```text
 <div class="pagination-container">

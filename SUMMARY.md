@@ -45,4 +45,5 @@
   * [Wizard](components/wizard.md)
 * [Forms](forms/README.md)
   * [Forms - Layout](forms/forms-layout.md)
+  * [Form - Templates](forms/form-templates.md)
 

@@ -10,7 +10,7 @@ description: >-
 
 ### Example
 
-![](../.gitbook/assets/image%20%2810%29.png)
+![](../.gitbook/assets/image%20%2811%29.png)
 
 ```text
 <a href="javascript:void(0);" data-toggle="tooltip" data-placement="top" title="Tooltip on top"> top of any item</a>

@@ -11,7 +11,7 @@ description: >-
 
 Wizards usually involve multiple pages. One wizard page typically corresponds to a single step in a multistep process.
 
-![](../.gitbook/assets/image%20%284%29.png)
+![](../.gitbook/assets/image%20%285%29.png)
 
 ```text
 <div class="wizard-progress-bar">
