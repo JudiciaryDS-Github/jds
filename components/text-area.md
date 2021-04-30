@@ -10,11 +10,11 @@ description: >-
 
 ### Default Form
 
-![](../.gitbook/assets/image%20%2826%29.png)
+![](../.gitbook/assets/image%20%2827%29.png)
 
 ### Horizontal Form 
 
-![](../.gitbook/assets/image%20%2825%29.png)
+![](../.gitbook/assets/image%20%2826%29.png)
 
 ```text
 <div class="form-group required">

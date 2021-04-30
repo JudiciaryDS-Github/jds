@@ -8,7 +8,7 @@ description: >-
 
 ## [Interactive demo](http://cloud.crimsonlogic.com/2021/website/jds/v1/components.html#tag-wrapper)
 
-![](../.gitbook/assets/image%20%2842%29.png)
+![](../.gitbook/assets/image%20%2843%29.png)
 
 ```text
 <!--Tag Dark-->
