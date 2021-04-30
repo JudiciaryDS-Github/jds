@@ -147,7 +147,7 @@ By default tabs are aligned to left. If it needs to be centered or right aligned
 
 ### Vertical tabs with icon - Boxed
 
-![](../.gitbook/assets/image%20%2872%29.png)
+![](../.gitbook/assets/image%20%2873%29.png)
 
 ```text
 <div class="vertical-boxed-tab has-icon d-flex">

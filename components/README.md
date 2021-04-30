@@ -1,16 +1,10 @@
----
-description: >-
-  Pagination is used for splitting up content or data into several pages, with a
-  control for navigating to the next or previous page.
----
-
 # Components
 
 ## [Interactive demo](http://cloud.crimsonlogic.com/2021/website/jds/v1/components.html#pagination-wrapper)
 
 ### Example
 
-![](../.gitbook/assets/image%20%2874%29.png)
+![](../.gitbook/assets/image%20%2875%29.png)
 
 ```text
 <div class="pagination-container">
