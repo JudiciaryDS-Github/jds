@@ -387,9 +387,10 @@ You should follow this pattern when you need to ask for a user’s name. You sho
 
 ```text
 <div class="form-group required">
-                  <label class="col-form-label">Full Name</label>
-                  <input class="form-control">
-                  <small class="form-text text-muted">Enter full name as per ID document</small> </div>
+    <label class="col-form-label">Full Name</label>
+    <input class="form-control">
+    <small class="form-text text-muted">Enter full name as per ID document</small>
+</div>
 ```
 {% endtab %}
 {% endtabs %}
