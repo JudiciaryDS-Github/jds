@@ -79,9 +79,6 @@ description: >-
                     </div>
                   </div>
                   <small class="form-text text-muted">This is example helper text!</small> </div>
-                
-                
-                
               </div>
             </div>
           </div>
