@@ -42,11 +42,15 @@ Size **18px**    Line Height **28px**       Letter Spacing **0em**      Word Spa
 
 ![](../.gitbook/assets/image%20%2896%29.png)
 
+
+
 ### Body / Default / Paragraph
 
 Size **16px**    Line Height **24px**       Letter Spacing **0em**      Word Spacing **0em**      Font weight **Normal**
 
 ![](../.gitbook/assets/image%20%2898%29.png)
+
+
 
 ### **Small**
 
