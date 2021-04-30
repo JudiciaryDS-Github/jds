@@ -31,5 +31,14 @@ description: >-
 </div>
 ```
 
+### When to use
 
+* Use for freeform data entry when you need to let users enter an amount of text that’s longer than a single line.
+
+### When not to use
+
+* Avoid using textarea to answer open-ended questions as it is difficult answer.
+* We recommend that you break your questions up into a series of simpler questions instead. For example, consider using the checkbox component if you want users to give multiple answers from a predetermined set of options.
+
+### ﻿
 
