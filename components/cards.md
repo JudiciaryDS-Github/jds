@@ -13,7 +13,7 @@ Cards are a useful UI component for grouping several related pieces of informati
 
 ### Examples
 
-![](../.gitbook/assets/image%20%2885%29.png)
+![](../.gitbook/assets/image%20%2886%29.png)
 
 ![](../.gitbook/assets/image%20%2847%29.png)
 
