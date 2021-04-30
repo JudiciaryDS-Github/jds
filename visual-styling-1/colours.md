@@ -1,3 +1,9 @@
+---
+description: >-
+  We use colours purposefully to communicate how things function in the
+  interface and express uniqure branding
+---
+
 # Colours
 
 ## Primary Colours
