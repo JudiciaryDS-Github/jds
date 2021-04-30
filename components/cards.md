@@ -13,9 +13,9 @@ Cards are a useful UI component for grouping several related pieces of informati
 
 ### Examples
 
-![](../.gitbook/assets/image%20%2871%29.png)
+![](../.gitbook/assets/image%20%2872%29.png)
 
-![](../.gitbook/assets/image%20%2838%29.png)
+![](../.gitbook/assets/image%20%2839%29.png)
 
 ```text
 <div class="row">
@@ -77,7 +77,7 @@ Cards are a useful UI component for grouping several related pieces of informati
 
 ### Cards with image
 
-![](../.gitbook/assets/image%20%2844%29.png)
+![](../.gitbook/assets/image%20%2845%29.png)
 
 ```text
 <div class="row">

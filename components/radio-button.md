@@ -11,7 +11,7 @@ description: >-
 
 ### Examples
 
-![](../.gitbook/assets/image%20%2834%29.png)
+![](../.gitbook/assets/image%20%2835%29.png)
 
 ```text
 <!--Radio Button group stacked-->
