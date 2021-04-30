@@ -10,7 +10,7 @@ description: >-
 
 ### Center aligned
 
-![](../.gitbook/assets/image%20%286%29.png)
+![](../.gitbook/assets/image%20%287%29.png)
 
 ```text
  <p class="text-left"> Lorem Ipsum is simply dummy text of the printing an d typesetting industry. Lorem Ipsum  has been the industry's standard dummy <span class="has-popover"><span class="popover-link">bottom - left aligned</span> 

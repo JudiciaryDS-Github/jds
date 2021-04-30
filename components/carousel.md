@@ -10,7 +10,7 @@ description: >-
 
 ### For Banners
 
-![](../.gitbook/assets/image%20%2846%29.png)
+![](../.gitbook/assets/image%20%2849%29.png)
 
 ```text
 <div id="section-carousel" class="carousel slide" data-ride="carousel" data-interval="5000"> 
@@ -52,7 +52,7 @@ description: >-
 
 ### For Cards
 
-![](../.gitbook/assets/image%20%2834%29.png)
+![](../.gitbook/assets/image%20%2836%29.png)
 
 ```text
 <div class="row">
