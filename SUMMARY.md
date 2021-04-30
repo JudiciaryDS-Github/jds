@@ -39,5 +39,5 @@
   * [Tab](components/tab.md)
   * [Tag](components/tag.md)
   * [Text Area](components/text-area.md)
-* [Text Input](untitled.md)
+  * [Text Input](components/text-input.md)
 
