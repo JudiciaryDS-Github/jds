@@ -10,47 +10,13 @@ JDS uses font awesome icons package and it is included in the JDS Package. Users
 
 ## Generic icons
 
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:left"></th>
-      <th style="text-align:left">&lt;b&gt;&lt;/b&gt;</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:left">
-        <p>
-          <img src="../.gitbook/assets/bell (1) (1).svg" alt/>Notification</p>
-        <p><code>&lt;i class=&quot;fal fa-bell&quot;&gt;&lt;/i&gt;</code>
-        </p>
-      </td>
-      <td style="text-align:left">Archive
-        <br /><code>&lt;i class=&quot;fal fa-archive&quot;&gt;&lt;/i&gt;</code>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">
-        <p>Announcement</p>
-        <p><code>&lt;i class=&quot;fal fa-bullhorn&quot;&gt;&lt;/i&gt;</code>
-        </p>
-      </td>
-      <td style="text-align:left">
-        <p>List</p>
-        <p><code>&lt;i class=&quot;fal fa-list-alt&quot;&gt;&lt;/i&gt;</code>
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">
-        <p>Check List</p>
-        <p><code>&lt;i class=&quot;fal fa-ballot-check&quot;&gt;&lt;/i&gt;</code>
-        </p>
-      </td>
-      <td style="text-align:left"></td>
-    </tr>
-  </tbody>
-</table>
+|  |  |  |
+| :--- | :--- | :--- |
+|  ![](../.gitbook/assets/bell%20%281%29%20%281%29.svg)Notification | `<i class="fal fa-bell"></i>` |  |
+| Archive | `<i class="fal fa-bell"></i>` |  |
+| \`\` | `<i class="fal fa-bullhorn"></i>` |  |
+| Check List | `<i class="fal fa-ballot-check"></i>` |  |
+| List | `<i class="fal fa-list-alt"></i>` |  |
 
 
 
