@@ -10,7 +10,7 @@ JDS uses font awesome icons package and it is included in the JDS Package. Users
 
 ## Generic icons
 
-![](../.gitbook/assets/image%20%28106%29.png)
+![](../.gitbook/assets/image%20%28108%29.png)
 
 ```text
 <!--Generic icons-->
@@ -54,14 +54,34 @@ JDS uses font awesome icons package and it is included in the JDS Package. Users
 <i class="fal fa-chevron-right"></i>
 ```
 
-|  |  |  |  |
-| :--- | :--- | :--- | :--- |
-|   Notification | `<i class="fal fa-bell"></i>` |  |  |
-| ![](../.gitbook/assets/archive.svg)  Archive | `<i class="fal fa-archive"></i>` |  |  |
-| ![](../.gitbook/assets/briefcase.svg)  Briefcase | `<i class="fal fa-briefcase"></i>` |  |  |
-| ![](../.gitbook/assets/bullhorn.svg) Announcement | `<i class="fal fa-bullhorn"></i>` |  |  |
-| ![](../.gitbook/assets/list-alt.svg)  List | `<i class="fal fa-list-alt"></i>` |  |  |
-| ![](../.gitbook/assets/ballot-check.svg) Check List |  |  |  |
+### Action Icons
 
+![](../.gitbook/assets/image%20%28109%29.png)
 
+![](../.gitbook/assets/image%20%28105%29.png)
+
+![](../.gitbook/assets/image%20%28107%29.png)
+
+```text
+<!--Action Icons-->
+<i class="fal fa-search"></i>
+<i class="fal fa-edit"></i>
+<i class="fal fal fa-print"></i>
+<i class="fal fa-save"></i>
+<i class="fal fa-trash-alt"></i>
+<i class="fal fa-external-link"></i>
+<i class="fal fa-calendar-alt"></i>
+<i class="fal fa-fa-clock"></i>
+<i class="fal fa-plus"></i>
+<i class="fal fa-minus"></i>
+<i class="fal fa-minus-octagon"></i>
+<i class="fal fa-paper-plane"></i>
+<i class="fal fa-share-square"></i>
+<i class="fal fa-sort"></i>
+<i class="fal fa-sort-up"></i>
+<i class="fal fa-sort-down"></i>
+<i class="fal fa-arrow-to-top"></i>
+<i class="fal fa-arrow-to-bottom"></i>
+<i class="fal fa-file-upload"></i>
+```
 
