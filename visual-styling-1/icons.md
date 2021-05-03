@@ -12,8 +12,8 @@ JDS uses font awesome icons package and it is included in the JDS Package. Users
 
 |  |  |  |
 | :--- | :--- | :--- |
-|  ![](../.gitbook/assets/bell%20%281%29%20%281%29.svg)Notification | `<i class="fal fa-bell"></i>` |  |
-| Archive | `<i class="fal fa-bell"></i>` |  |
+|  ![](../.gitbook/assets/bell%20%281%29%20%281%29.svg)  Notification | `<i class="fal fa-bell"></i>` |  |
+| ![](../.gitbook/assets/archive.svg)   Archive | `<i class="fal fa-bell"></i>` |  |
 | \`\` | `<i class="fal fa-bullhorn"></i>` |  |
 | Check List | `<i class="fal fa-ballot-check"></i>` |  |
 | List | `<i class="fal fa-list-alt"></i>` |  |
