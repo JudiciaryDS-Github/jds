@@ -32,6 +32,7 @@
   * [Radio Button](components/radio-button.md)
   * [Scroll to top](components/scroll-to-top.md)
   * [Tab](components/tab.md)
+  * [Table](components/table.md)
   * [Tag](components/tag.md)
   * [Text Area](components/text-area.md)
   * [Text Input](components/text-input.md)

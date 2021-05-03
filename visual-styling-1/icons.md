@@ -10,7 +10,7 @@ JDS uses font awesome icons package and it is included in the JDS Package. Users
 
 ## Generic icons
 
-![](../.gitbook/assets/image%20%28108%29.png)
+![](../.gitbook/assets/image%20%28111%29.png)
 
 ```text
 <!--Generic icons-->
@@ -56,11 +56,11 @@ JDS uses font awesome icons package and it is included in the JDS Package. Users
 
 ### Action Icons
 
-![](../.gitbook/assets/image%20%28109%29.png)
+![](../.gitbook/assets/image%20%28112%29.png)
 
 ![](../.gitbook/assets/image%20%28105%29.png)
 
-![](../.gitbook/assets/image%20%28107%29.png)
+![](../.gitbook/assets/image%20%28109%29.png)
 
 ```text
 <!--Action Icons-->
