@@ -18,7 +18,7 @@
   * [Badge](components/components-badges.md)
   * [Breadcrumb](components/breadcrumb.md)
   * [Button](components/button.md)
-  * [Cards](components/cards.md)
+  * [Card](components/cards.md)
   * [Callout](components/callout.md)
   * [Carousel](components/carousel.md)
   * [Checkboxes](components/checkboxes.md)

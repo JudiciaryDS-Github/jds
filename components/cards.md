@@ -5,7 +5,7 @@ description: >-
   and powerful display options.
 ---
 
-# Cards
+# Card
 
 ### [Interactive demo](http://cloud.crimsonlogic.com/2021/website/jds/v1/components.html#cards-wrapper)
 
@@ -133,6 +133,8 @@ Cards are a useful UI component for grouping several related pieces of informati
 ```
 
 ### Horizontal Card
+
+![](../.gitbook/assets/image%20%28115%29.png)
 
 ```text
 <div class="card">
