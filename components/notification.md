@@ -71,6 +71,8 @@ For proper styling, use one of the required contextual classes \(e.g., .alert-su
 </div>
 ```
 
+### Full width notification bars
+
 ![](../.gitbook/assets/image%20%28100%29.png)
 
 ```text
