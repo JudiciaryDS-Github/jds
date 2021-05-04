@@ -134,7 +134,7 @@ Cards are a useful UI component for grouping several related pieces of informati
 
 ### Horizontal Card
 
-![](../.gitbook/assets/image%20%28115%29.png)
+![](../.gitbook/assets/image%20%28122%29.png)
 
 ```text
 <div class="card">
