@@ -12,13 +12,13 @@ description: >-
 
 Form fields are grouped and wrapped inside `form-panel`div
 
-![](../.gitbook/assets/image%20%28135%29.png)
+![](../.gitbook/assets/image%20%28137%29.png)
 
 ![](../.gitbook/assets/image%20%28128%29.png)
 
-![](../.gitbook/assets/image%20%28137%29.png)
+![](../.gitbook/assets/image%20%28140%29.png)
 
-![](../.gitbook/assets/image%20%28129%29.png)
+![](../.gitbook/assets/image%20%28130%29.png)
 
 ```text
 <div class="form-panel">
@@ -137,9 +137,9 @@ Form fields are grouped and wrapped inside `form-panel`div
 
 ## Form Panel \(Label on left\)
 
-![](../.gitbook/assets/image%20%28136%29.png)
+![](../.gitbook/assets/image%20%28138%29.png)
 
-![](../.gitbook/assets/image%20%28134%29.png)
+![](../.gitbook/assets/image%20%28136%29.png)
 
 ```text
 <div class="form-panel-boxed">
