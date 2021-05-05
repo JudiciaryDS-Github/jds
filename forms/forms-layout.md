@@ -8,9 +8,19 @@ description: >-
 
 ## [Interactive demo](http://cloud.crimsonlogic.com/2021/website/jds/v1/page-with-form.html)
 
+![](../.gitbook/assets/image%20%28129%29.png)
+
 ![](../.gitbook/assets/image%20%2847%29.png)
 
 ![](../.gitbook/assets/image%20%2862%29.png)
+
+## Form Panel Title \(Label on Top\)
+
+Form fields are grouped and wrapped inside `form-panel`div
+
+![](../.gitbook/assets/image%20%28132%29.png)
+
+![](../.gitbook/assets/image%20%28128%29.png)
 
 ```text
 <div class="form-panel">
