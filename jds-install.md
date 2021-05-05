@@ -16,7 +16,9 @@ Users can download Judiciary Design System's HTML \(boilerplate template\), CSS 
 
 {% file src=".gitbook/assets/jds\_beta\_1.0.zip" caption="Download JDS Beta 1.0 Package" %}
 
-### The package zip file contains HTML pages, images, CSS and JS files. CSS and JS files are as shown below.
+### ![](.gitbook/assets/image%20%28127%29.png) Alternatively, users can access the package from [GitHub](https://github.com/JudiciaryDS-Github/jds)
+
+#### The package zip file contains HTML pages, images, CSS and JS files. CSS and JS files are as shown below.
 
 ```text
 <!--  CSS --> 
@@ -37,12 +39,6 @@ aos.min.js <!-- AOS: Animate on Scroll Minified JS -->
 faqs.js <!-- CL UX Practice R2-S2 Searchable FAQs JS --> 
 jds.js <!-- JDS specific JS -->
 ```
-
-### Alternatively, users can access the package from [GitHub](https://github.com/JudiciaryDS-Github/jds)
-
-## 
-
-
 
 ## Templates
 
