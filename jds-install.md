@@ -18,7 +18,9 @@ Users can download Judiciary Design System's HTML \(boilerplate template\), CSS 
 
 ### ![](.gitbook/assets/image%20%28127%29.png) Alternatively, users can access the package from [GitHub](https://github.com/JudiciaryDS-Github/jds)
 
+{% hint style="info" %}
 #### The package zip file contains HTML pages, images, CSS and JS files. CSS and JS files are as shown below.
+{% endhint %}
 
 ```text
 <!--  CSS --> 
