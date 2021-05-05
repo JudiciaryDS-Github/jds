@@ -38,6 +38,12 @@ faqs.js <!-- CL UX Practice R2-S2 Searchable FAQs JS -->
 jds.js <!-- JDS specific JS -->
 ```
 
+### Alternatively, users can access the package from [GitHub](https://github.com/JudiciaryDS-Github/jds)
+
+## 
+
+
+
 ## Templates
 
 After including the package in development environment, users can start building pages from scratch by using the following templates available in the package and add necessary components from the code snippets available at components section.
