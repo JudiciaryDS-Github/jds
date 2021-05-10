@@ -56,7 +56,13 @@ JDS uses font awesome icons package and it is included in the JDS Package. Users
 | Icon | Code |
 | :--- | :--- |
 | ![](../.gitbook/assets/image%20%28171%29.png)   **Home** | `<i class="fal fa-home"></i>` |
-|  |  |
+|  | `<i class="fal fa-bars"></i>` |
+|  | `<i class="fal fal fa-sign-in-alt"></i>` |
+|  | `<i class="fal fal fa-sign-out-alt"></i>` |
+|  | `<i class="fal fa-user-circle"></i>` |
+|  | `<i class="fal fa-times-circle"></i>` |
+|  | `<i class="fal fa-arrow-up"></i>` |
+|  | `<i class="fal fa-arrow-down"></i>` |
 
 ![](../.gitbook/assets/image%20%28104%29.png)
 
