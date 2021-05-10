@@ -24,7 +24,7 @@ As a common reference for all parties, JDS acts the single source of truth to en
 
 ![](.gitbook/assets/image%20%28145%29.png)
 
-![](.gitbook/assets/image%20%28147%29.png)
+![](.gitbook/assets/image%20%28149%29.png)
 
 ## \(Powered by CrimsonLogic\)
 
