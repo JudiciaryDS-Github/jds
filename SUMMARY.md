@@ -37,7 +37,6 @@
   * [Text Area](components/text-area.md)
   * [Text Input](components/text-input.md)
   * [Tooltip](components/tooltip.md)
-  * [Typography](components/typography.md)
   * [Wizard](components/wizard.md)
 * [Forms](forms/README.md)
   * [Form - Layout](forms/forms-layout.md)
