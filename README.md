@@ -20,7 +20,11 @@ As a common reference for all parties, JDS acts the single source of truth to en
 
 ## Outcome / Benefits
 
-![](.gitbook/assets/jds-outcome-gitbook%20%281%29%20%281%29.png)
+![](.gitbook/assets/image%20%28148%29.png)
+
+![](.gitbook/assets/image%20%28145%29.png)
+
+![](.gitbook/assets/image%20%28147%29.png)
 
 ## \(Powered by CrimsonLogic\)
 
