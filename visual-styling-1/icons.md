@@ -51,7 +51,12 @@ JDS uses font awesome icons package and it is included in the JDS Package. Users
 <i class="fal fa-lightbulb-on"></i>
 ```
 
-### Navigation Icons
+## Navigation Icons
+
+| Icon | Code |
+| :--- | :--- |
+| ![](../.gitbook/assets/image%20%28171%29.png)   **Home** | `<i class="fal fa-home"></i>` |
+|  |  |
 
 ![](../.gitbook/assets/image%20%28104%29.png)
 
