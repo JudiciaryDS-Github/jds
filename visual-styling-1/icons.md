@@ -12,6 +12,29 @@ JDS uses font awesome icons package and it is included in the JDS Package. Users
 
 ## Generic icons
 
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left"></th>
+      <th style="text-align:left"></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">
+        <p>
+          <img src="../.gitbook/assets/image (151).png" alt/>Notification
+          <br />
+        </p>
+        <p></p>
+      </td>
+      <td style="text-align:left"></td>
+    </tr>
+  </tbody>
+</table>
+
+![](../.gitbook/assets/image%20%28149%29.png)
+
 ![](../.gitbook/assets/image%20%28111%29.png)
 
 ```text
