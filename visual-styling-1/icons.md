@@ -14,9 +14,11 @@ JDS uses font awesome icons package and it is included in the JDS Package. Users
 
 |  |  |
 | :--- | :--- |
-| ![](../.gitbook/assets/image%20%28154%29.png) Notification | `<i class="fal fa-bell"></i>` |
-| ![](../.gitbook/assets/image%20%28151%29.png) Archive | `<i class="fal fa-archive"></i>` |
-| ![](../.gitbook/assets/image%20%28155%29.png) Briefcase | `<i class="fal fal fa-briefcase"></i>` |
+| ![](../.gitbook/assets/image%20%28155%29.png) Notification | `<i class="fal fa-bell"></i>` |
+| ![](../.gitbook/assets/image%20%28154%29.png) Archive | `<i class="fal fa-archive"></i>` |
+| ![](../.gitbook/assets/image%20%28156%29.png) Briefcase | `<i class="fal fal fa-briefcase"></i>` |
+| ![](../.gitbook/assets/image%20%28151%29.png) Announcement | `<i class="fal fa-bullhorn"></i>` |
+| ![](../.gitbook/assets/image%20%28157%29.png) List | `<i class="fal fa-list-alt"></i>` |
 
 ![](../.gitbook/assets/image%20%28149%29.png)
 
