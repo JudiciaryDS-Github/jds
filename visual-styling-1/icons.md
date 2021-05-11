@@ -70,8 +70,6 @@ JDS uses font awesome icons package and it is included in the JDS Package. Users
 | ![](../.gitbook/assets/image%20%28165%29.png)      **Chevron left** | `<i class="fal fa-chevron-left"></i>` |
 | ![](../.gitbook/assets/image%20%28173%29.png)      **Chevron right** | `<i class="fal fa-chevron-right"></i>` |
 
-
-
 ```text
 <!--Navigation Icons-->
 <i class="fal fa-home"></i>
