@@ -31,26 +31,6 @@ JDS uses font awesome icons package and it is included in the JDS Package. Users
 | ![](../.gitbook/assets/image%20%28179%29.png)   **Inbox** | `<i class="fal fa-inbox"></i>` |
 | ![](../.gitbook/assets/image%20%28157%29.png)   **Quick Tip / Light Bulb** | `<i class="fal fa-lightbulb-on"></i>` |
 
-```text
-<!--Generic icons-->
-<i class="fal fa-bell"></i>
-<i class="fal fa-archive"></i>
-<i class="fal fal fa-briefcase"></i>
-<i class="fal fa-bullhorn"></i>
-<i class="fal fa-list-alt"></i>
-<i class="fal fa-ballot-check"></i>
-<i class="fal fa-cog"></i>
-<i class="fal fa-tools"></i>
-<i class="fal fa-balance-scale"></i>
-<i class="fal fa-balance-scale"></i>
-<i class="fal fa-video"></i>
-<i class="fal fa-sms"></i>
-<i class="fal fa-sliders-h"></i>
-<i class="fal fa-sack-dollar"></i>
-<i class="fal fa-inbox"></i>
-<i class="fal fa-lightbulb-on"></i>
-```
-
 ## Navigation Icons
 
 | Icon | Code |
@@ -70,31 +50,11 @@ JDS uses font awesome icons package and it is included in the JDS Package. Users
 | ![](../.gitbook/assets/image%20%28165%29.png)      **Chevron left** | `<i class="fal fa-chevron-left"></i>` |
 | ![](../.gitbook/assets/image%20%28173%29.png)      **Chevron right** | `<i class="fal fa-chevron-right"></i>` |
 
-```text
-<!--Navigation Icons-->
-<i class="fal fa-home"></i>
-<i class="fal fa-bars"></i>
-<i class="fal fal fa-sign-in-alt"></i>
-<i class="fal fal fa-sign-out-alt"></i>
-<i class="fal fa-user-circle"></i>
-<i class="fal fa-times-circle"></i>
-<i class="fal fa-arrow-up"></i>
-<i class="fal fa-arrow-down"></i>
-<i class="fal fa-arrow-left"></i>
-<i class="fal fa-arrow-right"></i>
-<i class="fal fa-chevron-up"></i>
-<i class="fal fa-chevron-down"></i>
-<i class="fal fa-chevron-left"></i>
-<i class="fal fa-chevron-right"></i>
-```
-
 ### Action Icons
 
-![](../.gitbook/assets/image%20%28112%29.png)
-
-![](../.gitbook/assets/image%20%28105%29.png)
-
-![](../.gitbook/assets/image%20%28109%29.png)
+| Icon | Code |
+| :--- | :--- |
+|  |  |
 
 ```text
 <!--Action Icons-->
