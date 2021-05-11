@@ -65,7 +65,14 @@ JDS uses font awesome icons package and it is included in the JDS Package. Users
 |  | `<i class="fal fa-plus"></i>` |
 |  | `<i class="fal fa-minus"></i>` |
 |  | `<i class="fal fa-minus-octagon"></i>` |
-|  |  |
+|  | `<i class="fal fa-paper-plane"></i>` |
+|  | `<i class="fal fa-share-square"></i>` |
+|  | `<i class="fal fa-sort"></i>` |
+|  | `<i class="fal fa-sort-up"></i>` |
+|  | `<i class="fal fa-sort-down"></i>` |
+|  | `<i class="fal fa-arrow-to-top"></i>` |
+|  | `<i class="fal fa-arrow-to-bottom"></i>` |
+|  | `<i class="fal fa-file-upload"></i>` |
 
 ```text
 <!--Action Icons-->
