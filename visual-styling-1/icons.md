@@ -54,6 +54,17 @@ JDS uses font awesome icons package and it is included in the JDS Package. Users
 
 | Icon | Code |
 | :--- | :--- |
+|  | `<i class="fal fa-search"></i>` |
+|  | `<i class="fal fa-edit"></i>` |
+|  | `<i class="fal fal fa-print"></i>` |
+|  | `<i class="fal fa-save"></i>` |
+|  | `<i class="fal fa-trash-alt"></i>` |
+|  | `<i class="fal fa-external-link"></i>` |
+|  | `<i class="fal fa-calendar-alt"></i>` |
+|  | `<i class="fal fa-fa-clock"></i>` |
+|  | `<i class="fal fa-plus"></i>` |
+|  | `<i class="fal fa-minus"></i>` |
+|  | `<i class="fal fa-minus-octagon"></i>` |
 |  |  |
 
 ```text
