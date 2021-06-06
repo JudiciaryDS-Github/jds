@@ -16,7 +16,7 @@ As a common reference for all parties, JDS acts the single source of truth to en
 * Notes that guide their usage
 * When appropriate, the design philosophy, considerations and versioning information
 
-
+![](.gitbook/assets/about%20%281%29.png)
 
 ## Outcome / Benefits
 
