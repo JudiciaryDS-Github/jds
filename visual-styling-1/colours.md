@@ -260,14 +260,14 @@ When we need to communicate an information to digest or the status of an update,
           <img src="../.gitbook/assets/system-example-l1-eee9f3.png"
           alt/>
         </p>
-        <p>Example L1</p>
+        <p>Example Light</p>
         <p><b>  #f8d7da</b>
         </p>
       </td>
       <td style="text-align:left">
         <p>&#x200B;
           <img src="../.gitbook/assets/system-example-d1-735781.png" alt/>&#x200B;</p>
-        <p>Example D1</p>
+        <p>Example Dark</p>
         <p><b> #7b0016</b>
         </p>
       </td>
