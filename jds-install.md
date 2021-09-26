@@ -10,9 +10,19 @@ description: >-
 
 Users can download Judiciary Design System's HTML \(boilerplate template\), CSS and JavaScript files and host them yourself in your development environment.
 
-| Version | Release Date |
-| :--- | :--- |
-| Beta 1.0 | 31-Mar-2021 |
+| Version | Release Date |  |
+| :--- | :--- | :--- |
+| Beta 1.0 | 31-Mar-2021 | Download Beta 1.0 |
+| Beta 1.1 | 24-Sep-2021 | Download Beta 1.1 |
+
+### Beta 1.1
+
+1. Updated / Added new colours
+2. Included Timeline component
+3. 
+{% file src=".gitbook/assets/jds\_beta\_1.0.zip" caption="Download JDS Beta 1.1 Package" %}
+
+### Beta 1.0
 
 {% file src=".gitbook/assets/jds\_beta\_1.0.zip" caption="Download JDS Beta 1.0 Package" %}
 

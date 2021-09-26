@@ -140,7 +140,7 @@ Supplementary colours are used as backgroud colours to divide different sections
   </tbody>
 </table>
 
-## Extended Colours
+## Extended Colours \(WIP\)
 
 The extended colours have varying degree of saturation tot cater to various use case. Typically they are used for text and border colour.
 
