@@ -74,27 +74,3 @@ JDS uses font awesome icons package and it is included in the JDS Package. Users
 | ![](../.gitbook/assets/image%20%28186%29.png)     **Download** | `<i class="fal fa-arrow-to-bottom"></i>` |
 | ![](../.gitbook/assets/image%20%28196%29.png)     **Upload Document** | `<i class="fal fa-file-upload"></i>` |
 
-### Social Icons
-
-| Icon | Code |
-| :--- | :--- |
-| ![](../.gitbook/assets/image%20%28166%29.png)   **Search** | `<i class="fal fa-search"></i>` |
-| ![](../.gitbook/assets/image%20%28200%29.png)  **Edit** | `<i class="fal fa-edit"></i>` |
-| ![](../.gitbook/assets/image%20%28193%29.png)   **Print** | `<i class="fal fal fa-print"></i>` |
-| ![](../.gitbook/assets/image%20%28198%29.png)    **Save** | `<i class="fal fa-save"></i>` |
-|  ![](../.gitbook/assets/image%20%28187%29.png)   **Delete** | `<i class="fal fa-trash-alt"></i>` |
-| ![](../.gitbook/assets/image%20%28176%29.png)   **External Link** | `<i class="fal fa-external-link"></i>` |
-| ![](../.gitbook/assets/image%20%28165%29.png)    **Calendar** | `<i class="fal fa-calendar-alt"></i>` |
-| ![](../.gitbook/assets/image%20%28158%29.png)   **Time** | `<i class="fal fa-fa-clock"></i>` |
-| ![](../.gitbook/assets/image%20%28167%29.png)     **Plus / Add** | `<i class="fal fa-plus"></i>` |
-| ![](../.gitbook/assets/image%20%28197%29.png)     **Minus / Remove** | `<i class="fal fa-minus"></i>` |
-| ![](../.gitbook/assets/image%20%28157%29.png)   **Terminate**  | `<i class="fal fa-minus-octagon"></i>` |
-| ![](../.gitbook/assets/image%20%28172%29.png)   **Send** | `<i class="fal fa-paper-plane"></i>` |
-| ![](../.gitbook/assets/image%20%28190%29.png)  **Share** | `<i class="fal fa-share-square"></i>` |
-| ![](../.gitbook/assets/image%20%28171%29.png)      **Sort** | `<i class="fal fa-sort"></i>` |
-| ![](../.gitbook/assets/image%20%28164%29.png)      **Sort up** | `<i class="fal fa-sort-up"></i>` |
-| ![](../.gitbook/assets/image%20%28181%29.png)      **Sort down** | `<i class="fal fa-sort-down"></i>` |
-| ![](../.gitbook/assets/image%20%28179%29.png)     **Upload** | `<i class="fal fa-arrow-to-top"></i>` |
-| ![](../.gitbook/assets/image%20%28186%29.png)     **Download** | `<i class="fal fa-arrow-to-bottom"></i>` |
-| ![](../.gitbook/assets/image%20%28196%29.png)     **Upload Document** | `<i class="fal fa-file-upload"></i>` |
-

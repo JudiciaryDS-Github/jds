@@ -8,13 +8,13 @@ description: >-
 
 ## Primary Colours
 
-The maroon colors serve as the primary action color, such as button, across the website.
+The maroon colours serve as the primary colours serve as the primary action colour, bringing the boldness to the brand, it is used in logical ways through the website to highlight the important bits such as call to action. We use Primary for actions, buttons and text links wherever necessary.
 
 <table>
   <thead>
     <tr>
       <th style="text-align:left">Colour</th>
-      <th style="text-align:left">Colour</th>
+      <th style="text-align:left"></th>
     </tr>
   </thead>
   <tbody>
@@ -41,12 +41,11 @@ The maroon colors serve as the primary action color, such as button, across the 
 
 ## Secondary Colours
 
-Use secondary color for main header and components; use it sparing and purposefully.
+Our secondary colour is navy blue, making the visual look professional and authoritative, at the same time balancing the intensity of the primary colour. We use the secondary colour for components and headers. As dark colour may grab attention, use it sparingly and purposefully.
 
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">Colour</th>
       <th style="text-align:left">Colour</th>
     </tr>
   </thead>
@@ -60,38 +59,39 @@ Use secondary color for main header and components; use it sparing and purposefu
           <br /> <b>#283c61</b>
         </p>
       </td>
-      <td style="text-align:left">
-        <p>
-          <img src="../.gitbook/assets/khaki_-e2dfdb.png" alt/>
-        </p>
-        <p>Khaki</p>
-        <p> <b>#e2dfdb</b>
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">
-        <p>
-          <img src="../.gitbook/assets/khakid1_-a59b8a.png" alt/>
-        </p>
-        <p>Khaki D1
-          <br /> <b>#a59b8a</b>
-        </p>
-      </td>
-      <td style="text-align:left"></td>
     </tr>
   </tbody>
 </table>
 
+## Tertiary Colours
+
+Our tertiary colour is royal gold, the colour creates a sense of prestige and elegance to the design. Use this colour on small design elements only, such as icons, as using it too much may cause the design to look unapproachable and exclusive.
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">
+        <p>
+          <img src="../.gitbook/assets/khakid1_-a59b8a.png" alt/>
+        </p>
+        <p>Tertiary
+          <br /><b>#c4ad89</b>
+        </p>
+      </th>
+    </tr>
+  </thead>
+  <tbody></tbody>
+</table>
+
 ## Supplementary Colours
 
-Use as background colors to divide different sections within a page.
+Supplementary colours are used as backgroud colours to divide different sections within a page. The light beige colour creates a sense of calmness and softness when use as background colour.
 
 <table>
   <thead>
     <tr>
       <th style="text-align:left">Colour</th>
-      <th style="text-align:left">Colour</th>
+      <th style="text-align:left"></th>
     </tr>
   </thead>
   <tbody>
