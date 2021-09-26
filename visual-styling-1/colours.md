@@ -85,7 +85,9 @@ Our tertiary colour is royal gold, the colour creates a sense of prestige and el
 
 ## Supplementary Colours
 
-Supplementary colours are used as backgroud colours to divide different sections within a page. The light beige colour creates a sense of calmness and softness when use as background colour.
+Supplementary colours are used as backgroud colours to divide different sections within a page. The light beige colour creates a sense of calmness and softness when use as background colour.  
+  
+**Supplentary colour 1**
 
 <table>
   <thead>
@@ -100,16 +102,47 @@ Supplementary colours are used as backgroud colours to divide different sections
         <p>
           <img src="../.gitbook/assets/supplementary-bg-dark_-343e47.png" alt/>
         </p>
-        <p>Supplementary-BG Dark
-          <br /> <b>#343e47</b>
+        <p>Supp. 1 Light
+          <br /> <b>#faf7f7</b>
         </p>
       </td>
       <td style="text-align:left">
         <p>
           <img src="../.gitbook/assets/khaki_-e2dfdb.png" alt/>
         </p>
-        <p>Supplementary-BG Light
-          <br /> <b>#eeece9</b>
+        <p>Supp. 1
+          <br /> <b>#d1cfcf</b>
+        </p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+**Supplentary colour 2**
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">Colour</th>
+      <th style="text-align:left"></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">
+        <p>
+          <img src="../.gitbook/assets/supplementary-bg-dark_-343e47.png" alt/>
+        </p>
+        <p>Supp. 2
+          <br /> <b>#0e1524</b>
+        </p>
+      </td>
+      <td style="text-align:left">
+        <p>
+          <img src="../.gitbook/assets/khaki_-e2dfdb.png" alt/>
+        </p>
+        <p>Supp. 1
+          <br /> <b>#d1cfcf</b>
         </p>
       </td>
     </tr>
