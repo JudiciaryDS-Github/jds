@@ -124,7 +124,6 @@ Supplementary colours are used as backgroud colours to divide different sections
   <thead>
     <tr>
       <th style="text-align:left">Colour</th>
-      <th style="text-align:left"></th>
     </tr>
   </thead>
   <tbody>
@@ -135,14 +134,6 @@ Supplementary colours are used as backgroud colours to divide different sections
         </p>
         <p>Supp. 2
           <br /> <b>#0e1524</b>
-        </p>
-      </td>
-      <td style="text-align:left">
-        <p>
-          <img src="../.gitbook/assets/khaki_-e2dfdb.png" alt/>
-        </p>
-        <p>Supp. 1
-          <br /> <b>#d1cfcf</b>
         </p>
       </td>
     </tr>
@@ -167,7 +158,7 @@ When we need to communicate an information to digest or the status of an update,
         <p>
           <img src="../.gitbook/assets/system-info-dark_-283c61.png" alt/>
         </p>
-        <p>Info-Dark
+        <p>Info
           <br /> <b>#283c61</b>
         </p>
       </td>
@@ -175,7 +166,7 @@ When we need to communicate an information to digest or the status of an update,
         <p>
           <img src="../.gitbook/assets/system-info-light_-eeeff2.png" alt/>
         </p>
-        <p>Info-Light</p>
+        <p>Info Light</p>
         <p><b>  #eeeff2</b>
         </p>
       </td>
@@ -195,14 +186,14 @@ When we need to communicate an information to digest or the status of an update,
           <img src="../.gitbook/assets/system-success-light-e6f8f5.png"
           alt/>
         </p>
-        <p>Success L1</p>
+        <p>Success Light</p>
         <p><b>  #e6f8f5</b>
         </p>
       </td>
       <td style="text-align:left">
         <p>&#x200B;
           <img src="../.gitbook/assets/system-success-dark-016f5e.png" alt/>&#x200B;</p>
-        <p>Success D1</p>
+        <p>Success Dark</p>
         <p><b> #016f5e</b>
         </p>
       </td>
@@ -222,7 +213,7 @@ When we need to communicate an information to digest or the status of an update,
           <img src="../.gitbook/assets/system-warning-l1-fdf6e6.png"
           alt/>
         </p>
-        <p>Warning L1</p>
+        <p>Warning Light</p>
         <p><b>  #fdf6e6</b>
         </p>
       </td>
@@ -242,14 +233,14 @@ When we need to communicate an information to digest or the status of an update,
           <img src="../.gitbook/assets/system-error-l1-f8d7da.png"
           alt/>
         </p>
-        <p>Error L1</p>
+        <p>Error Light</p>
         <p><b>  #f8d7da</b>
         </p>
       </td>
       <td style="text-align:left">
         <p>&#x200B;
           <img src="../.gitbook/assets/system-error-d1-7b0016.png" alt/>&#x200B;</p>
-        <p>Error D1</p>
+        <p>Error Dark</p>
         <p><b> #7b0016</b>
         </p>
       </td>
