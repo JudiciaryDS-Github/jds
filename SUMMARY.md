@@ -28,6 +28,7 @@
   * [Modal](components/modal.md)
   * [Notification](components/notification.md)
   * [Pagination](components/pagination.md)
+  * [Passmap / Timeline](components/passmap.md)
   * [Popover](components/popover.md)
   * [Radio Button](components/radio-button.md)
   * [Scroll to top](components/scroll-to-top.md)
