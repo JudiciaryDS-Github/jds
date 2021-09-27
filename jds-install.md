@@ -17,7 +17,7 @@ Users can download Judiciary Design System's HTML \(boilerplate template\), CSS 
 
 ### Beta 1.1
 
-1. Updated / Added new colours
+1. Updated / Added new colours based on court's branding guide
 2. Included Timeline component
 3. Updated Tabs: Tabs become accordions when viewed in mobile. 
 4. Included simple table that is used in OJP \(One Judiciary Portal\)
