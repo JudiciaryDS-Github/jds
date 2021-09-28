@@ -17,7 +17,7 @@ Users can download Judiciary Design System's HTML \(boilerplate template\), CSS 
 
 ### Beta 1.1
 
-1. Updated / Added new colours based on court's branding guide
+1. Added new colours based on court's branding guide
 2. Included Timeline / Passmap component
 3. Updated Tabs: Tabs become accordions when viewed in mobile. 
 4. Included simple table that is used in OJP \(One Judiciary Portal\)
@@ -25,8 +25,8 @@ Users can download Judiciary Design System's HTML \(boilerplate template\), CSS 
 ### Beta 1.0
 
 1. Initial release
-2. Included Timeline component
-3. Updated Tabs: Tabs become accordions when viewed in mobile. 
+
+
 
 ### ![](.gitbook/assets/image%20%28127%29.png) Alternatively, users can access the package from [GitHub](https://github.com/JudiciaryDS-Github/jds)
 
