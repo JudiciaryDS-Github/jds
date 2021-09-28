@@ -10,7 +10,7 @@ description: >-
 
 Users can download Judiciary Design System's HTML \(boilerplate template\), CSS and JavaScript files and host them yourself in your development environment.
 
-| Version | Release Date |  |
+| Version | Release Date | Download here |
 | :--- | :--- | :--- |
 | Beta 1.1 | 24-Sep-2021 | [Download Beta 1.1](http://cloud.crimsonlogic.com/2021/website/jds/v1.1/jds-v1.1_092021.zip) |
 | Beta 1.0 | 31-Mar-2021 | [Download Beta 1.0](http://cloud.crimsonlogic.com/2021/website/jds/v1/jds_beta_1.0.zip) |
