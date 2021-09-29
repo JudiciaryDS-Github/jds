@@ -6,9 +6,20 @@ $(document).ready(function() {
 
   // Overlay the Loader and hides it when page is done loading **/
   showPage();
+  
+/** Start of Notification Bar Script **/
 
+$('.notification_close').click(function() {
+$(this).parents('.notification_fw').hide('slow');
+});
   // Show the Notification after 2 seconds
-  setTimeout('$("#notification").show("slow")', 2000);
+  setTimeout('$(".notification_fw.bg-primary").show("slow")', 2000);
+  setTimeout('$(".notification_fw.bg-success").show("slow")', 2000);
+  setTimeout('$(".notification_fw.bg-warning").show("slow")', 2000);
+  setTimeout('$(".notification_fw.bg-error").show("slow")', 2000);
+  
+  
+/** End of Notification Bar Script **/
 
   // Hide the navbar when user scrolls down, show the navbar when the user scrolls up */
   /*var prevScrollpos = window.pageYOffset;
@@ -22,6 +33,9 @@ $(document).ready(function() {
 	prevScrollpos = currentScrollPos;
   }
 */
+	$("#alert_carousel .notification_close").click(function(){
+		$("#alert_carousel").hide();
+	});
 	
 	
 	

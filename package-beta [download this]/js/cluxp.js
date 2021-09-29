@@ -64,9 +64,9 @@ function showPage() {
 
 /** Start of Notification Bar Script **/
 
-$("#notification-close").click(function(){
-  $("#notification").hide("slow");
-});
+
+
+
 
 /** End of Notification Bar Script **/
 

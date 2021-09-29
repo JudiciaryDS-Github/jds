@@ -123,15 +123,13 @@
   right: 1rem;
   cursor: pointer;
   z-index: 1;
-  font-size: 1.5rem;
+  font-size: 2rem;
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
   align-items: center;
 }
-.notification_close:hover {
-  color: #000;
-}
+
 .notification_fw i {
     font-size: 1.5em;
     position: relative;

@@ -21,8 +21,6 @@
 <!-- Animate Minified CSS -->
 <link href="css/aos.min.css" rel="stylesheet" type="text/css">
 <!-- AOS: Animate on Scroll Minified CSS --> 
-<!-- IE 11 specific CSS -->
-<link href="css/for-ie11.css" rel="stylesheet" type="text/css">
 <!-- JDS specific CSS -->
 <link href="css/jds.css" rel="stylesheet" type="text/css">
 <!-- End of CSS includes --> 
@@ -188,7 +186,7 @@
                   <div class="row">
                     <div class="col-lg-4"> <a class="dropdown-item" href="#accordion-wrapper">Accordion</a> <a class="dropdown-item" href="#badge-wrapper">Badge</a> <a class="dropdown-item" href="#breadcrumb-wrapper">Breadcrumb</a> <a class="dropdown-item" href="#buttons-wrapper">Button</a> <a class="dropdown-item" href="#cards-wrapper">Card</a> <a class="dropdown-item" href="#callouts-wrapper">Callout</a> <a class="dropdown-item" href="#carousel-wrapper">Carousel</a> <a class="dropdown-item" href="#checkbox-wrapper">Checkbox</a> <a class="dropdown-item" href="#dropdown-wrapper">Dropdown</a> </div>
                     <div class="col-lg-4"> <a class="dropdown-item" href="#hero-wrapper">Hero</a> <a class="dropdown-item" href="#icons-wrapper">Icons</a><a class="dropdown-item" href="#loader-wrapper">Loader</a> <a class="dropdown-item" href="#modals-wrapper">Modal</a> <a class="dropdown-item" href="#notfication-wrapper">Notification</a> <a class="dropdown-item" href="#pagination-wrapper">Pagination</a> <a class="dropdown-item" href="#popover-wrapper">Popover</a> <a class="dropdown-item" href="#radiobutton-wrapper">Radio Button</a> <a class="dropdown-item" href="#scrolltotop-wrapper">Scroll to top</a> </div>
-                    <div class="col-lg-4"> <a class="dropdown-item" href="#tab-wrapper">Tab</a> <a class="dropdown-item" href="#static-table-wrapper">Table</a> <a class="dropdown-item" href="#tag-wrapper">Tag</a> <a class="dropdown-item" href="#textarea-wrapper">Text Area</a> <a class="dropdown-item" href="#textinput-wrapper">Text Input</a> <a class="dropdown-item" href="#tooltip-wrapper">Tooltip</a> <a class="dropdown-item" href="#typography-wrapper">Typography</a> <a class="dropdown-item" href="#wizard-wrapper">Wizard</a> </div>
+                    <div class="col-lg-4"> <a class="dropdown-item" href="#tab-wrapper">Tab</a> <a class="dropdown-item" href="#simple-table-wrapper">Table</a> <a class="dropdown-item" href="#tag-wrapper">Tag</a> <a class="dropdown-item" href="#textarea-wrapper">Text Area</a> <a class="dropdown-item" href="#textinput-wrapper">Text Input</a> <a class="dropdown-item" href="#timeline-wrapper">Timeline</a> <a class="dropdown-item" href="#tooltip-wrapper">Tooltip</a><a class="dropdown-item" href="#typography-wrapper">Typography</a> <a class="dropdown-item" href="#wizard-wrapper">Wizard</a> </div>
                   </div>
                 </div>
               </div>
@@ -743,6 +741,7 @@
         <h2 class="text-center">Checkbox</h2>
         <div class="container text-left bordered">
           <h5>Checkbox Group (Stacked)</h5>
+		<div class="form-group">
           <div class="form-check">
             <label class="form-check-label" for="CheckboxDefault1">
               <input class="form-check-input" type="checkbox" name="CheckboxDefault" id="CheckboxDefault1">
@@ -768,9 +767,44 @@
               <input class="form-check-input" type="checkbox" name="CheckboxDefault" id="CheckboxDefault5" >
               Checkbox 5 <span class="checkbox-overlay "></span> </label>
           </div>
+		</div>
+        </div>
+		  
+		  <div class="container text-left bordered">
+          <h5>Checkbox Group (Stacked)</h5>
+		 <div class="form-group field-has-error">
+          <div class="form-check">
+            <label class="form-check-label" for="CheckboxDefault121">
+              <input class="form-check-input" type="checkbox" name="CheckboxDefault11" id="CheckboxDefault121">
+              Checkbox 1 (Default) <span class="checkbox-overlay "></span> </label>
+          </div>
+          <div class="form-check">
+            <label class="form-check-label" for="CheckboxDefault222">
+              <input class="form-check-input" type="checkbox" name="CheckboxDefault11" id="CheckboxDefault222" >
+              Checkbox 2 (Default) <span class="checkbox-overlay "></span> </label>
+          </div>
+          <div class="form-check">
+            <label class="form-check-label" for="CheckboxDefault333">
+              <input class="form-check-input" type="checkbox" name="CheckboxDefault11" id="CheckboxDefault333">
+              Checkbox 3 (Selected) <span class="checkbox-overlay "></span> </label>
+          </div>
+          <div class="form-check">
+            <label class="form-check-label" for="CheckboxDefault444">
+              <input class="form-check-input" type="checkbox" name="CheckboxDefault11" id="CheckboxDefault444">
+              Checkbox 4(Disabled Default) <span class="checkbox-overlay "></span> </label>
+          </div>
+          <div class="form-check">
+            <label class="form-check-label" for="CheckboxDefault555">
+              <input class="form-check-input" type="checkbox" name="CheckboxDefault11" id="CheckboxDefault555" >
+              Checkbox 5 <span class="checkbox-overlay "></span> </label>
+          </div>
+			 
+		    <span class="message text-danger">Error message</span>
+			</div>
         </div>
         <div class="container text-left bordered">
           <h5>Checkbox Group (Inline)</h5>
+		<div class="form-group">
           <div class="form-check form-check-inline">
             <label class="form-check-label" for="CheckboxDefault21">
               <input class="form-check-input" type="checkbox" name="CheckboxDefault" id="CheckboxDefault21">
@@ -796,7 +830,43 @@
               <input class="form-check-input" type="checkbox" name="CheckboxDefault" id="CheckboxDefault25" >
               Checkbox 5 <span class="checkbox-overlay "></span> </label>
           </div>
+			</div>
         </div>
+		  
+		  <div class="container text-left bordered">
+          <h5>Checkbox Group (Inline)</h5>
+		 <div class="form-group field-has-error">
+          <div class="form-check form-check-inline">
+            <label class="form-check-label" for="CheckboxDefault2111">
+              <input class="form-check-input" type="checkbox" name="CheckboxDefault" id="CheckboxDefault2111">
+              Checkbox 1 (Default) <span class="checkbox-overlay "></span> </label>
+          </div>
+          <div class="form-check form-check-inline">
+            <label class="form-check-label" for="CheckboxDefault2211">
+              <input class="form-check-input" type="checkbox" name="CheckboxDefault" id="CheckboxDefault2211" >
+              Checkbox 2 (Default) <span class="checkbox-overlay "></span> </label>
+          </div>
+          <div class="form-check form-check-inline">
+            <label class="form-check-label" for="CheckboxDefault2311">
+              <input class="form-check-input" type="checkbox" name="CheckboxDefault" id="CheckboxDefault2311">
+              Checkbox 3 (Selected) <span class="checkbox-overlay "></span> </label>
+          </div>
+          <div class="form-check form-check-inline">
+            <label class="form-check-label" for="CheckboxDefault2411">
+              <input class="form-check-input" type="checkbox" name="CheckboxDefault" id="CheckboxDefault2411">
+              Checkbox 4(Disabled Default) <span class="checkbox-overlay "></span> </label>
+          </div>
+          <div class="form-check form-check-inline">
+            <label class="form-check-label" for="CheckboxDefault2511">
+              <input class="form-check-input" type="checkbox" name="CheckboxDefault" id="CheckboxDefault2511" >
+              Checkbox 5 <span class="checkbox-overlay "></span> </label>
+          </div>
+			 
+			<span class="message text-danger">Error message</span>
+		</div>
+        </div>
+		  
+		  
       </div>
     </section>
     <!-- End of Checkbox Sample (Independent) --> 
@@ -1161,6 +1231,8 @@
             <p>Description will be shown here. This can be a combination of dismissible and link.</p>
           </div>
         </div>
+		  
+		 
         <h3 class="text-left mt-5 mb-2">Confirmation Dialogs</h3>
         <button type="button" class="btn btn-outline-primary" data-toggle="modal" data-target="#default">Default</button>
         <button type="button" class="btn btn-outline-success" data-toggle="modal" data-target="#success">Success</button>
@@ -1171,22 +1243,56 @@
     </section>
     <!-- Start of R2-S2's Notification Bar -->
     <h3 class="text-center mt-3 mb-2">Full Width Notifications</h3>
-    <div id="notification" class="notification_fw bg-primary">
+		 <div id="alert_carousel" class="carousel carousel-fade mb-3" data-ride="carousel">
+	    <div class="notification_close" title="Dismiss Notification"><span class="fal fa-times"></span></div>
+
+			  <!-- The slideshow -->
+			  <div class="carousel-inner">
+				<div class="carousel-item active">
+				  <div class="notification_fw">
+				  
+					<div class="notification_fw-details">
+					<p><span class="has-icon"><i class="fas fa-info-circle"></i></span>1 Description will be shown here. This can be a combination of dismissible and link.</p>
+					</div>
+				</div>
+				</div>
+				<div class="carousel-item">
+				  <div class="notification_fw">
+					<div class="notification_fw-details">
+					<p><span class="has-icon"><i class="fas fa-info-circle"></i></span>2 Lorem Ipsum is simply dummy text of the printing an d typesetting industry. Lorem Ipsum has been the industry's standard dummy.</p>
+					</div>
+				</div>
+				</div>
+				
+			  </div>
+
+			  <!-- Left and right controls -->
+			  <a class="carousel-control-prev" href="#alert_carousel" data-slide="prev">
+				
+				  <i class="fal fa-chevron-left"></i>
+			  </a>
+			  <a class="carousel-control-next" href="#alert_carousel" data-slide="next">
+				<i class="fal fa-chevron-right"></i>
+			  </a>
+
+			</div> 
+		  
+    <div class="notification_fw bg-primary">
       <div class="container-fluid">
-        <div class="notification_close" title="Dismiss Notification"><span class="fal fa-times"></span></div>
+        <div class="notification_close"  title="Dismiss Notification"><span class="fal fa-times"></span></div>
         <i class="fal fa-info-circle"></i> <strong>Important Notice:</strong> This is a full width notification bar. You have a notification! </div>
     </div>
-    <div class="notification_fw bg-success d-block">
+    <div class="notification_fw bg-success">
       <div class="container-fluid">
         <div class="notification_close" title="Dismiss Notification"><span class="fal fa-times"></span></div>
         <i class="fal fa-check-circle"></i> <strong>Success:</strong> This is a full width notification bar. You have a notification! </div>
     </div>
-    <div class="notification_fw bg-warning d-block">
+    <div class="notification_fw bg-warning">
       <div class="container-fluid">
         <div class="notification_close" title="Dismiss Notification"><span class="fal fa-times"></span></div>
         <i class="fal fa-exclamation-circle"></i> <strong>Warning:</strong> This is a full width notification bar. You have a notification! </div>
     </div>
-    <div class="notification_fw bg-error d-block">
+    <div class="notification_fw bg-error">
       <div class="container-fluid">
         <div class="notification_close" title="Dismiss Notification"><span class="fal fa-times"></span></div>
         <i class="fal fa-times-circle"></i> <strong>Error:</strong> This is a full width notification bar. You have a notification! </div>
@@ -1198,7 +1304,37 @@
     <section class="component-section" id="pagination-wrapper" >
       <h2 class="text-center">Pagination</h2>
       <div class="container-fluid">
-        <nav aria-label="Pagination">
+        
+		  
+		  <nav aria-label="Pagination">
+         <div class="pagination-container py-3">
+            <div class="item_per_page"> <span>Show
+              <select class="custom-select">
+                <option selected="" value="10">10</option>
+                <option value="20">20</option>
+                <option value="50">50</option>
+                <option value="100">100</option>
+              </select>
+              entries</span></div>
+            <div class="item_count">1-20 of 85 items</div>
+            
+			  
+			  
+
+<ul class="pagination py-0 mb-0">
+			  <li class="pager-item"><a class="page-link" href="#"><i class="far fa-chevron-double-left"></i><span class="sr-only">Preivous</span></a></li>
+              
+              
+              
+              <li class="pager-item"><input type="number" class="form-control" aria-label="Jump to a page"  aria-describedby="basic-addon2"></li>
+			  
+              <li class="pager-item"><a class="page-link" href="#"><i class="far fa-chevron-double-right"></i><span class="sr-only">Next</span ></a></li><span class="ml-2 mt-2">of 36</span>            
+			  </ul>
+            
+          </div>
+        </nav>
+		  
+		  <nav aria-label="Pagination">
           <div class="pagination-container">
             <div class="item_per_page"> <span>Show
               <select class="custom-select">
@@ -1209,19 +1345,89 @@
               </select>
               entries</span></div>
             <div class="item_count">1-20 of 85 items</div>
-            <ul class="pagination">
-              <li class="page-item disabled"><a class="page-link" href="#"><i class="fal fa-chevron-left"></i><span class="sr-only">Previous</span></a></li>
-              <li class="page-item active"><a class="page-link" href="#">1</a></li>
-              <li class="page-item"><a class="page-link" href="#">2</a></li>
-              <li class="page-item"><a class="page-link" href="#">3</a></li>
-              <li class="page-item"><a class="page-link" href="#"><i class="fal fa-chevron-right"></i><span class="sr-only">Next</span></a></li>
-            </ul>
-            <div class="input-group input-group ml-4"> <span class="mt-2">Go to</span>
+            <ul class="pagination  pagination-number pagination-middle">
+			  <li class="pager-item"><a class="page-link" href="#"><i class="far fa-chevron-double-left"></i><span class="sr-only">First</span></a></li>
+              <li class="pager-item"><a class="page-link" href="#"><i class="fal fa-chevron-left"></i><span class="sr-only">Previous</span></a></li>
+              <li class="pager-item"><a class="page-link" href="#">1</a></li>
+              <li class="pager-item active"><a class="page-link" href="#">2</a></li>
+              <li class="pager-item"><a class="page-link" href="#">3</a></li>
+			  <li class="pager-item"><a class="page-link" href="#"><i class="fal fa-chevron-right"></i><span class="sr-only">Next</span></a></li>
+              <li class="pager-item"><a class="page-link" href="#"><i class="far fa-chevron-double-right"></i><span class="sr-only">Last</span></a></li>            
+			  </ul>
+			  
+			  <div class="input-group input-group ml-4"> <span>Go to</span>
               <input type="text" class="form-control ml-1" placeholder="Page#" aria-label="Jump to a page" aria-describedby="basic-addon2">
               <div class="input-group-append">
                 <button class="btn btn-dark" type="button"><i class="fal fa-chevron-right"></i></button>
               </div>
             </div>
+            
+          </div>
+        </nav>
+		  
+		  <nav aria-label="Pagination">
+          <div class="pagination-container">
+            <div class="item_per_page"> <span>Show
+              <select class="custom-select">
+                <option selected value="10">10</option>
+                <option value="20">20</option>
+                <option value="50">50</option>
+                <option value="100">100</option>
+              </select>
+              entries</span></div>
+            <div class="item_count">1-20 of 85 items</div>
+            <ul class="pagination  pagination-number pagination-last">
+			  <li class="pager-item"><a class="page-link" href="#"><i class="far fa-chevron-double-left"></i><span class="sr-only">First</span></a></li>
+              <li class="pager-item"><a class="page-link" href="#"><i class="fal fa-chevron-left"></i><span class="sr-only">Previous</span></a></li>
+              <li class="pager-item"><a class="page-link" href="#">1</a></li>
+              <li class="pager-item"><a class="page-link" href="#">2</a></li>
+              <li class="pager-item active"><a class="page-link" href="#">3</a></li>
+            </ul>
+			  
+			  <div class="input-group input-group ml-4"> <span>Go to</span>
+              <input type="text" class="form-control ml-1" placeholder="Page#" aria-label="Jump to a page" aria-describedby="basic-addon2">
+              <div class="input-group-append">
+                <button class="btn btn-dark" type="button"><i class="fal fa-chevron-right"></i></button>
+              </div>
+            </div>
+            
+          </div>
+        </nav>
+			  <nav aria-label="Pagination">
+          <div class="pagination-container">
+            <ul class="pagination unboxed">
+	<li class="pager-item d-none d-md-block text-center">
+	   <a class="page-link" href="#0" title="First" aria-label="First">
+	   <i class="fas fa-chevron-left"></i><i class="fas fa-chevron-left"></i> First
+	   </a>
+	</li>
+	<li class="pager-item">
+	<a class="page-link" href="#0" title="Previous" aria-label="Previous">
+	<i class="fas fa-chevron-left"></i> Previous</a>
+	</li>
+	
+	<li class="pager-item d-none d-md-block text-center page-link">1</li>
+	<li class="pager-item d-none d-md-block text-center"><a class="page-link"  href="#2" title="1" aria-label="2">2</a></li>
+
+   <li class="pager-item d-none d-md-block text-center"><a class="page-link"  href="#2" title="3" aria-label="3">3</a></li>
+   <li class="pager-item d-none d-md-block text-center"><a class="page-link"  href="#3" title="4" aria-label="4">4</a></li>
+   <li class="pager-item d-none d-md-block text-center"><a class="page-link"  href="#4" title="5" aria-label="5">5</a></li>
+   <li class="pager-item d-none d-md-block text-center"><a class="page-link"  href="#5" title="6" aria-label="6">6</a></li>
+
+   <li class="mobile-pager d-md-none d-block text-center">Page 2 of 21</li>
+  
+   <li class="pager-item d-none d-md-block text-center">...</li>
+   <li class="pager-item d-none d-md-block text-center"><a class="page-link"  href="#20" title="21" aria-label="21">21</a></li>
+   
+   <li class="pager-item">
+      <a class="page-link"  href="#2" title="Next" aria-label="Next">
+  Next <i class="fas fa-chevron-right"></i></a></li>
+   <li class="pager-item d-none d-md-block text-center">
+   <a class="page-link"  href="#20" title="Last" aria-label="Last">Last <i class="fas fa-chevron-right"></i><i class="fas fa-chevron-right"></i>
+	</a>
+	</li>
+</ul>
+            
           </div>
         </nav>
       </div>
@@ -1243,6 +1449,7 @@
       <div class="container-fluid max-content-width">
         <h2 class="text-center">Radio Buttons</h2>
         <div class="container text-left bordered">
+		<div class="form-group">
           <h5>Radio Group (Stacked)</h5>
           <div class="form-check">
             <label class="form-check-label" for="RadioDefault1">
@@ -1269,39 +1476,107 @@
               <input class="form-check-input" type="radio" name="RadioDefault" id="RadioDefault5" >
               Radio 5 <span class="radio-overlay "></span> </label>
           </div>
+		</div>
+        </div>
+		  
+		<div class="container text-left bordered">
+		<div class="form-group field-has-error">
+          <h5>Radio Group  with error (Stacked)</h5>
+          <div class="form-check">
+            <label class="form-check-label" for="RadioDefault11">
+              <input class="form-check-input" type="radio" name="RadioDefault5" id="RadioDefault11">
+              Radio 1 (Default) <span class="radio-overlay "></span> </label>
+          </div>
+          <div class="form-check">
+            <label class="form-check-label" for="RadioDefault21">
+              <input class="form-check-input" type="radio" name="RadioDefault5" id="RadioDefault21" >
+              Radio 2 (Default) <span class="radio-overlay "></span> </label>
+          </div>
+          <div class="form-check">
+            <label class="form-check-label" for="RadioDefault31">
+              <input class="form-check-input" type="radio" name="RadioDefault5" id="RadioDefault31">
+              Radio 3 (Selected) <span class="radio-overlay "></span> </label>
+          </div>
+          <div class="form-check">
+            <label class="form-check-label" for="RadioDefault41">
+              <input class="form-check-input" type="radio" name="RadioDefault5" id="RadioDefault41">
+              Radio 4(Disabled Default) <span class="radio-overlay "></span> </label>
+          </div>
+          <div class="form-check">
+            <label class="form-check-label" for="RadioDefault51">
+              <input class="form-check-input" type="radio" name="RadioDefault5" id="RadioDefault51" >
+              Radio 5 <span class="radio-overlay "></span> </label>
+          </div>
+		<span class="message text-danger">Error message</span>
+		</div>
         </div>
         <div class="container text-left bordered">
           <h5>Radio Group (Inline)</h5>
+		<div class="form-group">
           <div class="form-check form-check-inline">
-            <label class="form-check-label" for="RadioDefault11">
-              <input class="form-check-input" type="radio" name="RadioDefault1" id="RadioDefault11">
+            <label class="form-check-label" for="RadioDefault111">
+              <input class="form-check-input" type="radio" name="RadioDefault1" id="RadioDefault111">
               Radio 1 (Default) <span class="radio-overlay "></span> </label>
           </div>
           <div class="form-check form-check-inline">
-            <label class="form-check-label" for="RadioDefault21">
-              <input class="form-check-input" type="radio" name="RadioDefault1" id="RadioDefault21" >
+            <label class="form-check-label" for="RadioDefault211">
+              <input class="form-check-input" type="radio" name="RadioDefault1" id="RadioDefault211" >
               Radio 2 (Default) <span class="radio-overlay "></span> </label>
           </div>
           <div class="form-check form-check-inline">
-            <label class="form-check-label" for="RadioDefault31">
-              <input class="form-check-input" type="radio" name="RadioDefault1" id="RadioDefault31" checked>
+            <label class="form-check-label" for="RadioDefault311">
+              <input class="form-check-input" type="radio" name="RadioDefault1" id="RadioDefault311" checked>
               Radio 3 (Selected) <span class="radio-overlay "></span> </label>
           </div>
           <div class="form-check form-check-inline">
-            <label class="form-check-label" for="RadioDefault41">
-              <input class="form-check-input" type="radio" name="RadioDefault1" id="RadioDefault41" disabled>
+            <label class="form-check-label" for="RadioDefault411">
+              <input class="form-check-input" type="radio" name="RadioDefault1" id="RadioDefault411" disabled>
               Radio 4(Disabled Default) <span class="radio-overlay "></span> </label>
           </div>
-          <div class="form-check form-check-inline invalid">
-            <label class="form-check-label" for="RadioDefault51">
-            <input class="form-check-input" type="radio" name="RadioDefault1" id="RadioDefault51">
+          <div class="form-check form-check-inline">
+            <label class="form-check-label" for="RadioDefault511">
+            <input class="form-check-input" type="radio" name="RadioDefault1" id="RadioDefault511">
             Radio 5 <span class="radio-overlay "> </span>
-            <div class="invalid-feedback">Invalid text</div>
             </label>
           </div>
+		</div>
+        </div>
+		  
+		<div class="container text-left bordered">
+          <h5>Radio Group with error (Inline)</h5>
+		<div class="form-group field-has-error">
+          <div class="form-check form-check-inline">
+            <label class="form-check-label" for="RadioDefault1111">
+              <input class="form-check-input" type="radio" name="RadioDefault1" id="RadioDefault1111">
+              Radio 1 (Default) <span class="radio-overlay "></span> </label>
+          </div>
+          <div class="form-check form-check-inline">
+            <label class="form-check-label" for="RadioDefault2111">
+              <input class="form-check-input" type="radio" name="RadioDefault1" id="RadioDefault2111" >
+              Radio 2 (Default) <span class="radio-overlay "></span> </label>
+          </div>
+          <div class="form-check form-check-inline">
+            <label class="form-check-label" for="RadioDefault3111">
+              <input class="form-check-input" type="radio" name="RadioDefault11" id="RadioDefault3111">
+              Radio 3 (Selected) <span class="radio-overlay "></span> </label>
+          </div>
+          <div class="form-check form-check-inline">
+            <label class="form-check-label" for="RadioDefault4111">
+              <input class="form-check-input" type="radio" name="RadioDefault1" id="RadioDefault4111">
+              Radio 4(Disabled Default) <span class="radio-overlay "></span> </label>
+          </div>
+          <div class="form-check form-check-inline">
+            <label class="form-check-label" for="RadioDefault5111">
+            <input class="form-check-input" type="radio" name="RadioDefault1" id="RadioDefault5111">
+            Radio 5 <span class="radio-overlay "> </span>
+            </label>
+          </div>
+		<span class="message text-danger">Error message</span>
+		</div>
         </div>
         <div class="container text-left bordered">
           <h5>Toggle Group (Inline)</h5>
+		<div class="form-group">
           <div class="btn-group btn-group-toggle" data-toggle="buttons">
             <label class="btn btn-outline-primary active">
               <input type="radio" name="options" id="option1" checked>
@@ -1313,6 +1588,25 @@
               <input type="radio" name="options" id="option3">
               Radio </label>
           </div>
+		</div>
+        </div>
+		  
+		  <div class="container text-left bordered">
+          <h5>Toggle Group with error (Inline)</h5>
+		<div class="form-group field-has-error">
+          <div class="btn-group btn-group-toggle" data-toggle="buttons">
+            <label class="btn btn-outline-primary active">
+              <input type="radio" name="options" id="option11" checked>
+              Active </label>
+            <label class="btn btn-outline-primary">
+              <input type="radio" name="options" id="option21">
+              Radio </label>
+            <label class="btn btn-outline-primary">
+              <input type="radio" name="options" id="option31">
+              Radio </label>
+          </div>
+		<span class="message text-danger">Error message</span>
+		</div>
         </div>
       </div>
     </section>
@@ -1336,38 +1630,66 @@
       
       <div class="container-fluid mb-5">
         <h3 class="my-3 text-left">Horizontal Tabs</h3>
-        <div class="horizontal-tab">
-          <ul class="nav nav-tabs left">
-            <li class="nav-item "><a class="nav-link active" data-toggle="tab"  href="#h-tab-1">Tab 1</a></li>
-            <li class="nav-item"><a  class="nav-link" data-toggle="tab"  href="#h-tab-2">Tab 2</a></li>
-            <li class="nav-item"><a  class="nav-link" data-toggle="tab"  href="#h-tab-3">Tab 3</a></li>
-            <li class="nav-item"><a class="nav-link" data-toggle="tab"  href="#h-tab-4">Tab 4</a></li>
-            <li class="nav-item"><a class="nav-link" data-toggle="tab"  href="#h-tab-5">Tab 5</a></li>
-          </ul>
-          
-          <!-- Tab panes -->
-          <div class="tab-content">
-            <div class="tab-pane active" id="h-tab-1">
-              <h3 class="tab-title">Tab 1 Content</h3>
-              <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+        <div class="horizontal-tab accordion-tab">
+			
+			
+			
+             <ul class="nav nav-tabs" role="tablist">
+                <li class="nav-item">
+                    <a  class="nav-link active" href="#ht-1" role="tab" data-toggle="tab" aria-selected="true">Horizontal Tab 1</a>
+                </li>
+                <li class="nav-item">
+                    <a   class="nav-link" href="#ht-2" role="tab" data-toggle="tab" aria-selected="false">Horizontal Tab 2</a>
+                </li>
+                <li class="nav-item">
+                    <a  class="nav-link" href="#ht-3" role="tab" data-toggle="tab"  aria-selected="false">Horizontal Tab 3</a>
+                </li>
+            </ul>
+            <div id="tab-content-1" class="accordion tab-content">
+                <div id="ht-1" class="card tab-pane fade show active">
+                    <div class="card-header" role="tab">
+                        <h2 class="mb-0">
+                            <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#h-tab-1" aria-expanded="true" >Horizontal Tab 1</button>
+                        </h2>
+                    </div>
+                    <div id="h-tab-1" class="collapse show" data-parent="#tab-content-1">
+                        <div class="card-body">
+                           
+							<h3 class="tab-title">Tab 1 Content</h3>
+              				<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+                        </div>
+                    </div>
+                </div>
+                <div id="ht-2" class="card tab-pane fade" role="tabpanel">
+                    <div class="card-header" role="tab">
+                        <h2 class="mb-0">
+                            <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#h-tab-2" aria-expanded="true">Horizontal Tab 2</button>
+                        </h2>
+                    </div>
+                    <div id="h-tab-2" class="collapse" data-parent="#tab-content-1">
+                        <div class="card-body">
+                           
+							<h3 class="tab-title">Tab 2 Content</h3>
+              				<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+                        </div>
+                    </div>
+                </div>
+                <div id="ht-3" class="card tab-pane fade" role="tabpanel">
+                    <div  class="card-header" role="tab">
+                        <h2 class="mb-0">
+                            <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#h-tab-3" aria-expanded="true">Horizontal Tab 3</button>
+                        </h2>
+                    </div>
+                    <div id="h-tab-3" class="collapse" data-parent="#tab-content-1">
+                        <div class="card-body">
+                           
+							<h3 class="tab-title">Tab 3 Content</h3>
+              				<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+                        </div>
+                    </div>
+                </div>
             </div>
-            <div class="tab-pane " id="h-tab-2">
-              <h3 class="tab-title">Tab 2 Content</h3>
-              <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
-            </div>
-            <div class="tab-pane " id="h-tab-3">
-              <h3 class="tab-title">Tab 3 Content</h3>
-              <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
-            </div>
-            <div class="tab-pane " id="h-tab-4">
-              <h3 class="tab-title">Tab 4 Content</h3>
-              <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
-            </div>
-            <div class="tab-pane " id="h-tab-5">
-              <h3 class="tab-title">Tab 5 Content</h3>
-              <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
-            </div>
-          </div>
+
         </div>
       </div>
       
@@ -1375,136 +1697,196 @@
       
       <div class="container-fluid mb-5">
         <h3 class="my-3 text-left">Horizontal Boxed Tabs with Icon</h3>
-        <div class="horizontal-boxed-tab has-icon">
-          <ul class="nav nav-tabs left">
-            <li class="nav-item "><a class="nav-link active" data-toggle="tab"  href="#hb-tab-1"><span><i class="fal fa-briefcase"></i></span>Tab 1</a></li>
-            <li class="nav-item"><a  class="nav-link" data-toggle="tab"  href="#hb-tab-2"><span><i class="fal fa-briefcase"></i></span>Tab 2</a></li>
-            <li class="nav-item"><a  class="nav-link" data-toggle="tab"  href="#hb-tab-3"><span><i class="fal fa-briefcase"></i></span>Tab 3</a></li>
-            <li class="nav-item"><a class="nav-link" data-toggle="tab"  href="#hb-tab-4"><span><i class="fal fa-briefcase"></i></span>Tab 4</a></li>
-            <li class="nav-item"><a class="nav-link" data-toggle="tab"  href="#hb-tab-5"><span><i class="fal fa-briefcase"></i></span>Tab 5</a></li>
-          </ul>
-          
-          <!-- Tab panes -->
-          <div class="tab-content">
-            <div class="tab-pane active" id="hb-tab-1">
-              <h3 class="tab-title">Tab 1 Content</h3>
-              <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+        <div class="horizontal-boxed-tab accordion-tab has-icon">
+			
+           
+             <ul class="nav nav-tabs" role="tablist">
+                <li class="nav-item">
+                    <a  class="nav-link active" href="#hbt-1" role="tab" data-toggle="tab" aria-selected="true"><span><i class="fal fa-briefcase"></i></span>Horizontal Boxed Tab 1</a>
+                </li>
+                <li class="nav-item">
+                    <a   class="nav-link" href="#hbt-2" role="tab" data-toggle="tab" aria-selected="false"><span><i class="fal fa-briefcase"></i></span>Horizontal Boxed Tab 2</a>
+                </li>
+                <li class="nav-item">
+                    <a  class="nav-link" href="#hbt-3" role="tab" data-toggle="tab"  aria-selected="false"><span><i class="fal fa-briefcase"></i></span>Horizontal Boxed Tab 3</a>
+                </li>
+            </ul>
+            <div id="tab-content-2" class="accordion tab-content">
+                <div id="hbt-1" class="card tab-pane fade show active" role="tabpanel">
+                    <div class="card-header" role="tab">
+                        <h2 class="mb-0">
+                            <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#hb-tab-1" aria-expanded="true"><span><i class="fal fa-briefcase"></i></span> Horizontal Boxed Tab 1</button>
+                        </h2>
+                    </div>
+                    <div id="hb-tab-1" class="collapse show" data-parent="#tab-content-2">
+                        <div class="card-body">
+                           
+							<h3 class="tab-title">Tab 1 Content</h3>
+              				<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+                        </div>
+                    </div>
+                </div>
+                <div id="hbt-2" class="card tab-pane fade" role="tabpanel">
+                    <div class="card-header" role="tab">
+                        <h2 class="mb-0">
+                            <button class="btn btn-link  collapsed" type="button" data-toggle="collapse" data-target="#hb-tab-2" aria-expanded="true" ><span><i class="fal fa-briefcase"></i></span> Horizontal Boxed Tab 2</button>
+                        </h2>
+                    </div>
+                    <div id="hb-tab-2" class="collapse" data-parent="#tab-content-2">
+                        <div class="card-body">
+                           
+							<h3 class="tab-title">Tab 2 Content</h3>
+              				<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+                        </div>
+                    </div>
+                </div>
+                <div id="hbt-3" class="card tab-pane fade" role="tabpanel">
+                    <div  class="card-header" role="tab">
+                        <h2 class="mb-0">
+                            <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#hb-tab-3" aria-expanded="true" ><span><i class="fal fa-briefcase"></i></span> Horizontal Boxed Tab 3</button>
+                        </h2>
+                    </div>
+                    <div id="hb-tab-3" class="collapse" data-parent="#tab-content-2">
+                        <div class="card-body">
+                           
+							<h3 class="tab-title">Tab 3 Content</h3>
+              				<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+                        </div>
+                    </div>
+                </div>
             </div>
-            <div class="tab-pane " id="hb-tab-2">
-              <h3 class="tab-title">Tab 2 Content</h3>
-              <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
-            </div>
-            <div class="tab-pane " id="hb-tab-3">
-              <h3 class="tab-title">Tab 3 Content</h3>
-              <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
-            </div>
-            <div class="tab-pane " id="hb-tab-4">
-              <h3 class="tab-title">Tab 4 Content</h3>
-              <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
-            </div>
-            <div class="tab-pane " id="hb-tab-5">
-              <h3 class="tab-title">Tab 5 Content</h3>
-              <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
-            </div>
-          </div>
+
+
         </div>
       </div>
       
       <!---Vertical Tabs with Icon-->
       <h3>Vertical Tabs</h3>
       <div class="container-fluid mb-4">
-        <div class="vertical-tab d-flex">
+        <div class="vertical-tab accordion-tab d-flex">
           <div class="nav-left">
-            <ul class="nav nav-tabs">
-              <li class="nav-item"> <a class="nav-link active" data-toggle="tab" href="#vtab1"><span><i class="fal fa-briefcase"></i></span>Tab 1</a> </li>
-              <li class="nav-item"> <a class="nav-link" data-toggle="tab" href="#vtab2"><span><i class="fal fa-briefcase"></i></span>Tab 2</a> </li>
-              <li class="nav-item"> <a class="nav-link" data-toggle="tab" href="#vtab3"><span><i class="fal fa-briefcase"></i></span>Tab 3</a> </li>
-              <li class="nav-item"> <a class="nav-link" data-toggle="tab" href="#vtab4"><span><i class="fal fa-briefcase"></i></span>Tab 4</a> </li>
-              <li class="nav-item"> <a class="nav-link" data-toggle="tab" href="#vtab5"><span><i class="fal fa-briefcase"></i></span>Tab 5</a> </li>
+            <ul class="nav nav-tabs" role="tablist">
+                <li class="nav-item">
+                    <a  class="nav-link active" href="#vt-1" role="tab" data-toggle="tab" aria-selected="true">Vertical Tab 1</a>
+                </li>
+                <li class="nav-item">
+                    <a   class="nav-link" href="#vt-2" role="tab" data-toggle="tab" aria-selected="false">Vertical Tab 2</a>
+                </li>
+                <li class="nav-item">
+                    <a  class="nav-link" href="#vt-3" role="tab" data-toggle="tab"  aria-selected="false">Vertical Tab 3</a>
+                </li>
             </ul>
           </div>
           <!-- Tab panes -->
-          <div class="tab-content">
-            <div class="tab-pane container active" id="vtab1">
-              <h3 class="tab-title">Tab 1</h3>
-              <p> Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled
-                it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of
-                Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. </p>
+          <div id="tab-content-3" class="accordion tab-content">
+                <div id="vt-1" class="card tab-pane fade show active" role="tabpanel">
+                    <div  class="card-header" role="tab">
+                        <h2 class="mb-0">
+                            <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#v-tab-1" aria-expanded="true">Vertical Tab 1</button>
+                        </h2>
+                    </div>
+                    <div id="v-tab-1" class="collapse show" data-parent="#tab-content-3">
+                        <div class="card-body">
+                           
+							<h3 class="tab-title">Tab 1 Content</h3>
+              				<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+                        </div>
+                    </div>
+                </div>
+                <div id="vt-2" class="card tab-pane fade" role="tabpanel" aria-labelledby="hbt-2">
+                    <div class="card-header" role="tab">
+                        <h2 class="mb-0">
+                            <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#v-tab-2" aria-expanded="true" >Vertical Tab 2</button>
+                        </h2>
+                    </div>
+                    <div id="v-tab-2" class="collapse" data-parent="#tab-content-3">
+                        <div class="card-body">
+                           
+							<h3 class="tab-title">Tab 2 Content</h3>
+              				<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+                        </div>
+                    </div>
+                </div>
+                <div id="vt-3" class="card tab-pane fade" role="tabpanel">
+                    <div  class="card-header" role="tab">
+                        <h2 class="mb-0">
+                            <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#v-tab-3" aria-expanded="true" >Vertical Tab 3</button>
+                        </h2>
+                    </div>
+                    <div id="v-tab-3" class="collapse" data-parent="#tab-content-3">
+                        <div class="card-body">
+                           
+							<h3 class="tab-title">Tab 3 Content</h3>
+              				<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+                        </div>
+                    </div>
+                </div>
             </div>
-            <div class="tab-pane container" id="vtab2">
-              <h3 class="tab-title">Tab 2</h3>
-              <p> Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled
-                it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of
-                Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. </p>
-            </div>
-            <div class="tab-pane container" id="vtab3">
-              <h3 class="tab-title">Tab 3</h3>
-              <p> Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled
-                it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of
-                Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. </p>
-            </div>
-            <div class="tab-pane container" id="vtab4">
-              <h3 class="tab-title">Tab 4</h3>
-              <p> Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled
-                it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of
-                Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. </p>
-            </div>
-            <div class="tab-pane container" id="vtab5">
-              <h3 class="tab-title">Tab 5</h3>
-              <p> Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled
-                it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of
-                Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. </p>
-            </div>
-          </div>
         </div>
       </div>
       
       <!---Vertical Tabs with Icon-->
       <h3>Vertical Boxed Tabs</h3>
       <div class="container-fluid mb-4">
-        <div class="vertical-boxed-tab has-icon d-flex">
+        <div class="vertical-boxed-tab accordion-tab has-icon d-flex">
           <div class="nav-left">
-            <ul class="nav nav-tabs">
-              <li class="nav-item"> <a class="nav-link active" data-toggle="tab" href="#vbtab1"><span><i class="fal fa-briefcase"></i></span>Tab 1</a> </li>
-              <li class="nav-item"> <a class="nav-link" data-toggle="tab" href="#vbtab2"><span><i class="fal fa-briefcase"></i></span>Tab 2</a> </li>
-              <li class="nav-item"> <a class="nav-link" data-toggle="tab" href="#vbtab3"><span><i class="fal fa-briefcase"></i></span>Tab 3</a> </li>
-              <li class="nav-item"> <a class="nav-link" data-toggle="tab" href="#vbtab4"><span><i class="fal fa-briefcase"></i></span>Tab 4</a> </li>
-              <li class="nav-item"> <a class="nav-link" data-toggle="tab" href="#vbtab5"><span><i class="fal fa-briefcase"></i></span>Tab 5</a> </li>
+           <ul class="nav nav-tabs" role="tablist">
+                <li class="nav-item">
+                    <a  class="nav-link active" href="#vbt-1" role="tab" data-toggle="tab" aria-selected="true"><span><i class="fal fa-briefcase"></i></span>Vertical Boxed Tab 1</a>
+                </li>
+                <li class="nav-item">
+                    <a   class="nav-link" href="#vbt-2" role="tab" data-toggle="tab" aria-selected="false"><span><i class="fal fa-briefcase"></i></span>Vertical Boxed Tab 2</a>
+                </li>
+                <li class="nav-item">
+                    <a  class="nav-link" href="#vbt-3" role="tab" data-toggle="tab"  aria-selected="false"><span><i class="fal fa-briefcase"></i></span>Vertical Boxed Tab 3</a>
+                </li>
             </ul>
           </div>
           <!-- Tab panes -->
-          <div class="tab-content">
-            <div class="tab-pane container active" id="vbtab1">
-              <h3 class="tab-title">Tab 1</h3>
-              <p> Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled
-                it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of
-                Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. </p>
+          <div id="tab-content-4" class="accordion tab-content">
+                <div id="vbt-1" class="card tab-pane fade show active" role="tabpanel">
+                    <div class="card-header" role="tab">
+                        <h2 class="mb-0">
+                            <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#vb-tab-1" aria-expanded="true"><span><i class="fal fa-briefcase"></i></span> Vertical Boxed Tab 1</button>
+                        </h2>
+                    </div>
+                    <div id="vb-tab-1" class="collapse show" data-parent="#tab-content-4">
+                        <div class="card-body">
+                           
+							<h3 class="tab-title">Tab 1 Content</h3>
+              				<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+                        </div>
+                    </div>
+                </div>
+                <div id="vbt-2" class="card tab-pane fade" role="tabpanel">
+                    <div class="card-header" role="tab">
+                        <h2 class="mb-0">
+                            <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#vb-tab-2" aria-expanded="true" ><span><i class="fal fa-briefcase"></i></span> Vertical Boxed Tab 2</button>
+                        </h2>
+                    </div>
+                    <div id="vb-tab-2" class="collapse collapsed" data-parent="#tab-content-4">
+                        <div class="card-body">
+                           
+							<h3 class="tab-title">Tab 2 Content</h3>
+              				<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+                        </div>
+                    </div>
+                </div>
+                <div id="vbt-3" class="card tab-pane fade" role="tabpanel">
+                    <div  class="card-header" role="tab">
+                        <h2 class="mb-0">
+                            <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#vb-tab-3" aria-expanded="true" ><span><i class="fal fa-briefcase"></i></span> Vertical Boxed Tab 3</button>
+                        </h2>
+                    </div>
+                    <div id="vb-tab-3" class="collapse" data-parent="#tab-content-4">
+                        <div class="card-body">
+                           
+							<h3 class="tab-title">Tab 3 Content</h3>
+              				<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+                        </div>
+                    </div>
+                </div>
             </div>
-            <div class="tab-pane container" id="vbtab2">
-              <h3 class="tab-title">Tab 2</h3>
-              <p> Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled
-                it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of
-                Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. </p>
-            </div>
-            <div class="tab-pane container" id="vbtab3">
-              <h3 class="tab-title">Tab 3</h3>
-              <p> Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled
-                it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of
-                Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. </p>
-            </div>
-            <div class="tab-pane container" id="vbtab4">
-              <h3 class="tab-title">Tab 4</h3>
-              <p> Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled
-                it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of
-                Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. </p>
-            </div>
-            <div class="tab-pane container" id="vbtab5">
-              <h3 class="tab-title">Tab 5</h3>
-              <p> Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled
-                it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of
-                Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. </p>
-            </div>
-          </div>
         </div>
       </div>
     </section>
@@ -1512,6 +1894,48 @@
     <!-- End of Tab Sample (Independent) --> 
     
     <!-- Start of  Tables Sample --> 
+	  
+	  
+	    <!-- Start of Simple Table Sample -->
+    <section class="component-section" id="simple-table-wrapper">
+      <h2 class="text-center">Simple table</h2>
+      <div class="container-fluid text-left">
+          <div class="table-responsive">
+            <table class="table  table-hover">
+              <thead>
+                <tr>
+                  <th>#</th>
+                  <th>First</th>
+                  <th>Last</th>
+                  <th>Status</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td>1</td>
+                  <td>Mark</td>
+                  <td>Otto</td>
+                  <td><span class="jds-tag has-success-light">Approved</span></td>
+                </tr>
+                <tr>
+                  <td>2</td>
+                  <td>Jacob</td>
+                  <td>Thornton</td>
+                  <td><span class="jds-tag has-error-light">Rejected</span></td>
+                </tr>
+                <tr>
+                  <td>3</td>
+                  <td>Larry</td>
+                  <td>the Bird</td>
+                  <td><span class="jds-tag has-example-light">Example</span></td>
+                </tr>
+              </tbody>
+            </table>
+            
+          </div>
+      </div>
+    </section>
+    <!-- End of simple Table Sample --> 
     <!-- Start of Static Table Sample -->
     <section class="component-section" id="static-table-wrapper">
       <h2 class="text-center">Static table</h2>
@@ -1550,11 +1974,11 @@
             </table>
             <div class="'pagination-container'">
               <ul class="pagination justify-content-end">
-                <li class="page-item disabled"><a class="page-link" href="#"><i class="fal fa-chevron-left"></i><span class="sr-only">Previous</span></a></li>
-                <li class="page-item active"><a class="page-link" href="#">1</a></li>
-                <li class="page-item"><a class="page-link" href="#">2</a></li>
-                <li class="page-item"><a class="page-link" href="#">3</a></li>
-                <li class="page-item"><a class="page-link" href="#"><i class="fal fa-chevron-right"></i><span class="sr-only">Next</span></a></li>
+                <li class="pager-item disabled"><a class="page-link" href="#"><i class="fal fa-chevron-left"></i><span class="sr-only">Previous</span></a></li>
+                <li class="pager-item active"><a class="page-link" href="#">1</a></li>
+                <li class="pager-item"><a class="page-link" href="#">2</a></li>
+                <li class="pager-item"><a class="page-link" href="#">3</a></li>
+                <li class="pager-item"><a class="page-link" href="#"><i class="fal fa-chevron-right"></i><span class="sr-only">Next</span></a></li>
               </ul>
             </div>
           </div>
@@ -2121,9 +2545,14 @@
       <h2 class="text-center">Tags</h2>
       <div class="container-fluid text-left">
         <h3 class="my-3">Dark</h3>
-        <span class="jds-tag has-primary">Primary</span> <span class="jds-tag has-secondary">Secondary</span> <span class="jds-tag has-success">Success</span> <span class="jds-tag has-error">Error</span> <span class="jds-tag has-warning">Warning</span> <span class="jds-tag has-example">Example</span>
+        <span class="jds-tag has-primary">Primary</span> <span class="jds-tag has-secondary">Secondary/Info</span> <span class="jds-tag has-success">Success</span> <span class="jds-tag has-error">Error</span> <span class="jds-tag has-warning">Warning</span> <span class="jds-tag has-example">Example</span>
         <h3 class="mt-5">Light</h3>
-        <span class="jds-tag has-primary-light">Primary</span> <span class="jds-tag has-secondary-light">Secondary</span> <span class="jds-tag has-success-light">Success</span> <span class="jds-tag has-error-light">Error</span> <span class="jds-tag has-warning-light">Warning</span> <span class="jds-tag has-example-light">Example</span> </div>
+        <span class="jds-tag has-primary-light">Primary</span> <span class="jds-tag has-secondary-light">Secondary/Info</span> <span class="jds-tag has-success-light">Success</span> <span class="jds-tag has-error-light">Error</span> <span class="jds-tag has-warning-light">Warning</span> <span class="jds-tag has-example-light">Example</span> 
+		 
+		  <h3 class="mt-5">Clickable</h3>
+		  <a class="jds-tag-link" href="#"><span class="jds-tag has-primary">Primary</span></a> 
+		    <a class="jds-tag-link" href="#"><span class="jds-tag has-primary-light">Primary</span></a> 
+		</div>
     </section>
     <!-- End of Tag Sample (Independent) --> 
     
@@ -2186,35 +2615,20 @@
                   <input class="form-control" type="text">
                   <small class="form-text text-muted">This is example helper text!</small> </div>
                 <div class="form-group  required">
-                  <label class="col-form-label">Input with success message</label>
+                  <label class="col-form-label"> Input with success message</label>
                   <div class="field-icon field-success">
                     <input class="form-control" type="text">
                   </div>
-                  <span class="message text-success">This is a success message.</span> <small class="form-text text-muted">This is example helper text!</small> </div>
-                <div class="form-group  required">
-                  <label class="col-form-label">Input with success message</label>
-                  <div class="field-icon field-icon-md field-success">
+                  <span class="message text-success"><i class="fas fa-check-circle mr-1"></i>This is a success message.</span> <small class="form-text text-muted">This is example helper text!</small> </div>
+                
+               
+      
+              
+				  
+				  <div class="form-group required  field-has-error">
+                  <label class="col-form-label">Input with error message</label>
                     <input class="form-control" type="text">
-                  </div>
-                  <span class="message text-success">This is a success message.</span> <small class="form-text text-muted">This is example helper text!</small> </div>
-                <div class="form-group  required">
-                  <label class="col-form-label">Input with success message</label>
-                  <div class="field-icon field-icon-sm field-success">
-                    <input class="form-control" type="text">
-                  </div>
-                  <span class="message text-success">This is a success message.</span> <small class="form-text text-muted">This is example helper text!</small> </div>
-                <div class="form-group  required">
-                  <label class="col-form-label">Input with success message</label>
-                  <div class="field-icon field-icon-xsm field-success">
-                    <input class="form-control" type="text">
-                  </div>
-                  <span class="message text-success">This is a success message.</span> <small class="form-text text-muted">This is example helper text!</small> </div>
-                <div class="form-group required">
-                  <label class="col-form-label">Input with error</label>
-                  <div class="field-icon field-danger">
-                    <input class="form-control" type="text">
-                  </div>
-                  <span class="message text-danger">This is an error message. </span> <small class="form-text text-muted">This is example helper text!</small> </div>
+                  <span class="message text-danger"><i class="fas fa-exclamation-circle mr-1"></i>This is an error message. </span> <small class="form-text text-muted">This is example helper text!</small> </div>
                 <div class="form-group">
                   <label class="col-form-label">Inline button</label>
                   <div class="input-group">
@@ -2294,12 +2708,80 @@
       </div>
     </section>
     <!-- End of Text input Sample (Independent) --> 
+	  
+	  
+	  
+	   <!-- Start of Tool Tip Sample (Independent) -->
+    <section class="component-section" id="timeline-wrapper">
+      <h2 class="text-center">Timeline</h2>
+      <div class="container-fluid">
+        <ul class="timeline">
+			<li class="active">
+				
+				<div class="outer-card-title"><span class="jds-tag jds-tag-lg has-secondary">Timeline title</span></div>
+				<div class="card mb-4">
+			<div class="card-horizontal">
+					<div class="card-body">
+					  <h4 class="card-title">Card title</h4>
+					  <p class="card-text">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+
+<ul class="timeline-list">
+                                            <li><a class="primary-link" href=#" aria-label="" title="">Link item 1</a></li>
+                                            <li><a class="primary-link" href=#" aria-label="" title="">Link item 2</a></li>
+                                           <li><a class="primary-link" href=#" aria-label="" title="">Link item 3</a></li>
+                                    </ul>
+					</div>
+				  </div>
+				</div>
+			</li>  
+		<li >
+				
+				<div class="outer-card-title"><span class="jds-tag jds-tag-lg has-secondary">Timeline title</span></div>
+				<div class="card mb-4">
+			<div class="card-horizontal">
+					<div class="card-body">
+					  <h4 class="card-title">Card title</h4>
+					  <p class="card-text">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+
+<ul class="timeline-list">
+                                            <li><a class="primary-link" href=#" aria-label="" title="">Link item 1</a></li>
+                                            <li><a class="primary-link" href=#" aria-label="" title="">Link item 2</a></li>
+                                           <li><a class="primary-link" href=#" aria-label="" title="">Link item 3</a></li>
+                                    </ul>
+					</div>
+				  </div>
+				</div>
+			</li> 
+			<li >
+				
+				<div class="outer-card-title"><span class="jds-tag jds-tag-lg has-secondary">Timeline title</span></div>
+				<div class="card mb-4">
+			<div class="card-horizontal">
+					<div class="card-body">
+					  <h4 class="card-title">Card title</h4>
+					  <p class="card-text">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+
+<ul class="timeline-list">
+                                            <li><a class="primary-link" href=#" aria-label="" title="">Link item 1</a></li>
+                                            <li><a class="primary-link" href=#" aria-label="" title="">Link item 2</a></li>
+                                           <li><a class="primary-link" href=#" aria-label="" title="">Link item 3</a></li>
+                                    </ul>
+					</div>
+				  </div>
+				</div>
+			</li> 
+			
+			 
+		</ul>
+      </div>
+    </section>
+    <!-- End of Tool Tip Sample (Independent) --> 
     
     <!-- Start of Tool Tip Sample (Independent) -->
     <section class="component-section" id="tooltip-wrapper">
       <h2 class="text-center">Tool Tips</h2>
       <div class="container-fluid">
-        <p class="text-left"> Lorem Ipsum is simply dummy text of the printing and <a href="javascript:void(0);" data-toggle="tooltip" data-placement="top" title="Tooltip on top">typesetting industry</a>. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and <a href="javascript:void(0);" data-toggle="tooltip" data-placement="top" title="Tooltip on top">typesetting industry</a>scrambled it to make a</a> type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, <a href="javascript:void(0);" data-toggle="tooltip" data-placement="top" title="Tooltip on top">typesetting industry</a>remaining essentially</a> unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently <a href="javascript:void(0);" data-toggle="tooltip" data-placement="top" title="Tooltip on top">typesetting industry</a>with desktop publishing</a> software like Aldus PageMaker including versions of Lorem Ipsum. </p>
+        <p class="text-left"> Lorem Ipsum is simply dummy text of the printing and <a href="javascript:void(0);" data-toggle="tooltip" data-placement="top" title="Tooltip on top">typesetting industry</a>. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and <a href="javascript:void(0);" data-toggle="tooltip" data-placement="top" title="Tooltip on top">typesetting industry</a>scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, <a href="javascript:void(0);" data-toggle="tooltip" data-placement="top" title="Tooltip on top">typesetting industry</a>remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently <a href="javascript:void(0);" data-toggle="tooltip" data-placement="top" title="Tooltip on top">typesetting industry</a>with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. </p>
       </div>
     </section>
     <!-- End of Tool Tip Sample (Independent) --> 
@@ -2311,7 +2793,7 @@
         <h3 class="text-left">Desktop</h3>
         <div class="static-table">
           <div class="table-responsive">
-            <table class="table table-striped table-hover">
+            <table class="table  table-hover">
               <thead>
                 <tr>
                   <th scope="col">Size</th>
@@ -2389,6 +2871,9 @@
     
     <!-- End of Wizard Sample (Independent) --> 
     
+
+
+
   </main>
   <!-- End of Main Content --> 
   
@@ -2397,8 +2882,50 @@
   <footer class="jds-footer">
     <div class="sitemap">
       <div class="container-fluid">
-        <h2 class="jds-footer-sitemap-header text-left">Singapore Courts</h2>
-        <div class="footer-links"> <a href="#">About</a> <a href="#">Notices</a> <a href="faq.html">FAQs</a> <a href="#">Contact us</a> </div>
+        <h2 class="jds-footer-sitemap-header text-left"><img src="images/sg-courts-logo-white.svg" alt=""/></h2>
+        <div class="footer-links">
+		<div class="row">
+			
+			<div class="col-md-3">
+			<h4>Main link one</h4>
+			<ul>
+				<li><a href="#">Link 1</a></li>
+				<li><a href="#">Link 2</a></li>
+				<li><a href="#">Link 3</a></li>
+				<li><a href="#">Link 4</a></li>
+				<li><a href="#">Link 5</a></li>
+			</ul>
+			</div>
+			<div class="col-md-6">
+			<h4>Main link two</h4>
+			<ul class="columns">
+				<li><a href="#">Link 1</a></li>
+				<li><a href="#">Link 2</a></li>
+				<li><a href="#">Link 3</a></li>
+				<li><a href="#">Link 4</a></li>
+				<li><a href="#">Link 5</a></li>
+				<li><a href="#">Link 6</a></li>
+				<li><a href="#">Link 7</a></li>
+				<li><a href="#">Link 8</a></li>
+				<li><a href="#">Link 9</a></li>
+				<li><a href="#">Link 10</a></li>
+			</ul>
+			</div>
+			<div class="col-md-3">
+			<h4>Main link three</h4>
+			<ul>
+				<li><a href="#">Link 1</a></li>
+				<li><a href="#">Link 2</a></li>
+				<li><a href="#">Link 3</a></li>
+				<li><a href="#">Link 4</a></li>
+				<li><a href="#">Link 5</a></li>
+			</ul>
+			</div>
+			
+		</div>  
+		  
+		  
+		</div>
       </div>
     </div>
     <hr class="divider">
